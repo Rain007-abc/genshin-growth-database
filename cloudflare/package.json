@@ -4,8 +4,8 @@
   "type": "module",
   "scripts": {
     "prepare:local": "python prepare.py",
-    "db:local": "npm run prepare:local && wrangler d1 migrations apply DB --local",
-    "dev": "npm run prepare:local && wrangler dev --local --ip 127.0.0.1",
+    "db:local": "npm run prepare:local && wrangler d1 migrations apply DB --local --env local",
+    "dev": "npm run prepare:local && wrangler dev --local --env local --ip 127.0.0.1",
     "test": "node --test test.mjs",
     "test:integration": "python verify.py"
   },

@@ -13,10 +13,28 @@
   "d1_databases": [
     {
       "binding": "DB",
-      "database_name": "genshin-growth-local",
-      "database_id": "00000000-0000-0000-0000-000000000001",
+      "database_name": "genshin-growth-d1",
+      "database_id": "86c2dca4-9090-432f-90c6-34588bccf9f0",
       "migrations_dir": "migrations",
       "remote": false
     }
-  ]
+  ],
+  "env": {
+    "local": {
+      "d1_databases": [
+        {
+          "binding": "DB",
+          "database_name": "genshin-growth-local",
+          "database_id": "00000000-0000-0000-0000-000000000001",
+          "migrations_dir": "migrations",
+          "remote": false
+        }
+      ]
+    }
+  },
+  "account_id": "073e86c87facb34c713ce3daaae7b54a",
+  "build": {
+    "command": "python prepare.py"
+  },
+  "workers_dev": true
 }

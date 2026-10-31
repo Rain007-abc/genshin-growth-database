@@ -160,7 +160,7 @@ python scripts/import_source.py /path/to/genshin-db data/source_snapshot.json
 
 `python -m unittest discover -s tests -v` 可在已准备数据库和完整图片的原始本地环境运行。数据库测试使用临时数据库，图片/API 测试使用当前数据库的隔离副本；图片测试要求清单列出的本地图片存在。新克隆后可先初始化数据库，再运行 `python -m unittest discover -s tests -p test_database.py -v`；未准备图片时完整图片测试不能全部通过。
 
-## Workers + D1 方案（本地验证，尚未部署）
+## Workers + D1 在线版
 
 保留原 Windows + Python + SQLite 本地版：双击 `run_windows.bat`，访问 `http://127.0.0.1:8765`，库存仍写入本机 SQLite。
 
@@ -175,4 +175,4 @@ npm run db:local
 npm run dev
 ```
 
-访问 `http://127.0.0.1:8787`。所有数据库准备命令仅操作 Wrangler 本地 D1，无需 Cloudflare 登录。详细架构、API、验证命令与后续账号/配置步骤见 [cloudflare/README.md](cloudflare/README.md)。当前尚未创建远程 D1，也未执行 Cloudflare 部署。
+访问 `http://127.0.0.1:8787`。所有数据库准备命令仅操作 Wrangler 本地 D1，无需 Cloudflare 登录。详细架构、API、验证命令与后续账号/配置步骤见 [cloudflare/README.md](cloudflare/README.md)。正式网站已部署：[提瓦特养成计划在线版](https://genshin-growth-database.genshin-growth-cloudflare.workers.dev/)。远程 D1 只保存标准数据，库存仍由各浏览器独立保存。部署记录与 GitHub 自动部署配置见 [cloudflare/DEPLOYMENT.md](cloudflare/DEPLOYMENT.md)。

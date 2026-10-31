@@ -1,16 +1,39 @@
 """Compare the running local Wrangler API with Python on an in-memory DB only."""
+import argparse
 import json
 from pathlib import Path
 import sqlite3
 import subprocess
 import sys
-from urllib.request import urlopen, Request
-from urllib.error import HTTPError
+import ssl
+import time
+from urllib.request import Request, build_opener, ProxyHandler, HTTPSHandler
+from urllib.error import HTTPError, URLError
 from urllib.parse import urlencode
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0,str(ROOT))
 from planner import calculate_plan, set_inventory
-base = "http://127.0.0.1:8787"
+args = argparse.ArgumentParser(description=__doc__)
+args.add_argument("--base-url", default="http://127.0.0.1:8787")
+args.add_argument("--slugs", nargs="*")
+args.add_argument("--proxy", help="Optional HTTP proxy for HTTPS verification")
+options = args.parse_args()
+base = options.base_url.rstrip("/")
+context = ssl.create_default_context()
+opener = build_opener(ProxyHandler({"https": options.proxy}) if options.proxy else ProxyHandler(), HTTPSHandler(context=context))
+def urlopen(request, timeout=20):
+    if isinstance(request, str):
+        request = Request(request)
+    request.add_header("User-Agent", "GenshinGrowth-Verification/1.0")
+    for attempt in range(4):
+        try:
+            return opener.open(request, timeout=timeout)
+        except HTTPError:
+            raise
+        except (URLError, TimeoutError):
+            if attempt == 3:
+                raise
+            time.sleep(1 + attempt)
 def get(path):
     with urlopen(base+path,timeout=20) as res:
         return json.load(res)
@@ -23,6 +46,10 @@ def main():
     assert get('/api/stats') == dict(characters=120,materials=309,ascension_rows=3480,talent_rows=3840,revision='49a6544a6c')
     chars=get('/api/characters')
     assert len(chars)==120
+    assert get('/api/health')['ok'] is True
+    if options.slugs:
+        chars=[c for c in chars if c['slug'] in options.slugs]
+        assert {c['slug'] for c in chars}==set(options.slugs)
     fixtures=[]
     cases=[(0,6,[(1,1)]*3),(0,6,[(1,10)]*3),(2,5,[(2,4),(3,8),(1,6)]),(4,4,[(6,6)]*3)]
     for c in chars:

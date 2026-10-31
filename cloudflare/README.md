@@ -1,4 +1,4 @@
-# Workers + D1 本地适配（尚未部署）
+# Workers + D1 在线与本地方案
 
 原 Python / SQLite 架构、业务表定义与 Windows 启动脚本不变。新增 JavaScript Worker 提供只读标准数据与需求计算；Workers Static Assets 提供由原 `static/` 白名单生成的前端。浏览器 localStorage 单独保存库存，初始为零，不迁移 SQLite 个人库存，不跨浏览器、设备或不同网站 origin 同步；清除网站数据会丢失库存。
 
@@ -12,7 +12,7 @@ npm run db:local
 npm run dev
 ```
 
-访问 http://127.0.0.1:8787 。上述 Wrangler 命令显式使用 `--local`；配置中的 D1 ID 是本地占位值，`remote: false`，无需登录 Cloudflare。本阶段不得执行部署、远程建库或远程导入。
+访问 http://127.0.0.1:8787 。上述 npm 命令显式使用 `--local --env local`；`env.local` 保留原本地占位 ID，`remote: false`，无需登录 Cloudflare。顶层配置绑定正式远程 D1；不要将日常本地命令替换为远程命令。
 
 `prepare.py` 仅从 JSON 快照在内存中构建标准数据，绝不打开本地 `genshin_growth.db`，保留同一六表结构但 `inventory` 为零行且 Worker 不查询或写入它。输出稳定的 `migrations/0001_standard_data.sql`；若现有迁移与新快照不符则报错。Wrangler migrations 记录已应用版本，重复执行 `npm run db:local` 不重复插入；直接再次执行同一 SQL 会明确失败，不使用 INSERT OR IGNORE。迁移错误会终止命令，不能视为成功。未来更新快照需要新增经过审查的迁移。
 
@@ -41,11 +41,8 @@ npm run test:integration
 
 `verify.py` 在内存中载入同一标准迁移，对全部 120 个角色的四种目标组合比较 Python 与实际本地 Worker 返回；再比较浏览器库存覆盖后的结果（零、部分、足够、超额）。另检查网页资源、非法输入和写入拒绝。原有测试在项目根目录执行 `python -m unittest discover -s tests -v`，完整图片测试需要原本地图片与数据库。
 
-## 第三阶段准备（本阶段未执行）
+## 正式部署与验收
 
-1. Cloudflare 账号需有 Workers 与 D1 权限，确认账户与拟使用的域名/访问地址。届时执行 `npx wrangler login` 和 `npx wrangler whoami`，不要发送凭据到聊天。
-2. 明确授权后才创建远程 D1，记录 account ID 与 database ID。使用独立生产配置替换本地占位 ID，保持本地配置不连接远程资源；数据库 ID 不是密码，Token 应通过受保护环境变量管理。
-3. 审查迁移与图片白名单，明确授权后再对新空远程 D1 应用迁移、验证记录数与外键；不要上传本地 SQLite 文件或个人库存。
-4. 明确授权后才部署 Worker 和白名单资源，验证线上接口、库存隔离及占位图；配置备份、配额监控与回滚方案。
+网站已于 2026-11-01（北京时间）部署，当前使用 Free 计划。资源 ID、网址、远程记录数、复现验收及 Workers Builds 配置见 [DEPLOYMENT.md](DEPLOYMENT.md)。原本地数据库 ID 保留在 `env.local`，不会重新初始化或迁移个人库存。
 
 官方参考：[Static Assets bindings](https://developers.cloudflare.com/workers/static-assets/binding/)、[D1 local development](https://developers.cloudflare.com/d1/best-practices/local-development/)。
