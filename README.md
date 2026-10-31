@@ -160,6 +160,19 @@ python scripts/import_source.py /path/to/genshin-db data/source_snapshot.json
 
 `python -m unittest discover -s tests -v` 可在已准备数据库和完整图片的原始本地环境运行。数据库测试使用临时数据库，图片/API 测试使用当前数据库的隔离副本；图片测试要求清单列出的本地图片存在。新克隆后可先初始化数据库，再运行 `python -m unittest discover -s tests -p test_database.py -v`；未准备图片时完整图片测试不能全部通过。
 
-## 后续云端部署计划
+## Workers + D1 方案（本地验证，尚未部署）
 
-当前仅为 Python 标准库 HTTP 服务与本地 SQLite 项目，尚未完成 Cloudflare 部署。本阶段不执行云端操作。后续需选择兼容的服务运行环境，确定数据库持久化、迁移和备份方案，以及多用户库存隔离、身份验证、环境变量与图片使用授权；若采用 Cloudflare，需另行设计其运行时及存储适配，不能直接把现有本地服务器视为已部署的云端服务。
+保留原 Windows + Python + SQLite 本地版：双击 `run_windows.bat`，访问 `http://127.0.0.1:8765`，库存仍写入本机 SQLite。
+
+新增 `cloudflare/`：JavaScript Worker 提供只读 API，D1 保存同一标准游戏数据；复用原前端的白名单构建，库存仅保存在当前浏览器 localStorage，初始为零，不跨浏览器或设备同步，清除网站数据会丢失。此方案不会迁移个人库存，也不分发游戏图片；页面使用原创占位图。
+
+Node.js 22+ 和 Python 3.10+ 环境下：
+
+```sh
+cd cloudflare
+npm ci
+npm run db:local
+npm run dev
+```
+
+访问 `http://127.0.0.1:8787`。所有数据库准备命令仅操作 Wrangler 本地 D1，无需 Cloudflare 登录。详细架构、API、验证命令与后续账号/配置步骤见 [cloudflare/README.md](cloudflare/README.md)。当前尚未创建远程 D1，也未执行 Cloudflare 部署。

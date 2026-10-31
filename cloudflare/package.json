@@ -1,0 +1,15 @@
+{
+  "name": "genshin-growth-cloudflare",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "prepare:local": "python prepare.py",
+    "db:local": "npm run prepare:local && wrangler d1 migrations apply DB --local",
+    "dev": "npm run prepare:local && wrangler dev --local --ip 127.0.0.1",
+    "test": "node --test test.mjs",
+    "test:integration": "python verify.py"
+  },
+  "devDependencies": {
+    "wrangler": "4.156.0"
+  }
+}
