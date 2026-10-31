@@ -1,0 +1,1943 @@
+{
+  "repository": "CMHopeSunshine/GenshinWikiMap",
+  "revision": "7fafe2e18011008d47e347f0f68216d05da0c1f1",
+  "truncated": false,
+  "files": [
+    {
+      "path": "LICENSE",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "20d40b6bceca3a6c0237d7455ebf1820aeff3680",
+      "size": 35146,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/20d40b6bceca3a6c0237d7455ebf1820aeff3680"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c4d4ac639eb77c22e3fd818cf3dbe64292aebb7c",
+      "size": 3345,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/c4d4ac639eb77c22e3fd818cf3dbe64292aebb7c"
+    },
+    {
+      "path": "data/avatar/10000002.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "93e4d0f6d6fa19893f09c2dc934bac10471faf6e",
+      "size": 2730,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/93e4d0f6d6fa19893f09c2dc934bac10471faf6e"
+    },
+    {
+      "path": "data/avatar/10000003.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cd37602e4a4b48ebad97a16f595a32887e7c3159",
+      "size": 2577,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/cd37602e4a4b48ebad97a16f595a32887e7c3159"
+    },
+    {
+      "path": "data/avatar/10000005-岩.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3ef03907cb31c82ea83a5267a0cadf5957935d47",
+      "size": 1548,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/3ef03907cb31c82ea83a5267a0cadf5957935d47"
+    },
+    {
+      "path": "data/avatar/10000005-草.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "553e358020ecc35b1ab2273a8456d153346618a1",
+      "size": 1564,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/553e358020ecc35b1ab2273a8456d153346618a1"
+    },
+    {
+      "path": "data/avatar/10000005-雷.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "42058baa45f5449b9d1ff10993fe8759c367aefd",
+      "size": 1594,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/42058baa45f5449b9d1ff10993fe8759c367aefd"
+    },
+    {
+      "path": "data/avatar/10000005-风.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9d5d5f0ebca530aa42f389592c9a9fbedb052030",
+      "size": 1548,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/9d5d5f0ebca530aa42f389592c9a9fbedb052030"
+    },
+    {
+      "path": "data/avatar/10000006.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "533c87d96b74f03dbb1218cc56c621e85fdf9310",
+      "size": 2581,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/533c87d96b74f03dbb1218cc56c621e85fdf9310"
+    },
+    {
+      "path": "data/avatar/10000007-岩.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "517b8e011b887de67bd31f4583a241fc5f7f526d",
+      "size": 1553,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/517b8e011b887de67bd31f4583a241fc5f7f526d"
+    },
+    {
+      "path": "data/avatar/10000007-草.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7b0b0172bcd2b60850ad80229041a9af854db902",
+      "size": 1569,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/7b0b0172bcd2b60850ad80229041a9af854db902"
+    },
+    {
+      "path": "data/avatar/10000007-雷.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1a2adfbd24727257ba147489270483def44fbfca",
+      "size": 1599,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/1a2adfbd24727257ba147489270483def44fbfca"
+    },
+    {
+      "path": "data/avatar/10000007-风.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ca63b9accb8e890bbf3ad489b1f512da6c3380da",
+      "size": 1553,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/ca63b9accb8e890bbf3ad489b1f512da6c3380da"
+    },
+    {
+      "path": "data/avatar/10000014.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0fa8ab864e888702b0101c8db93dea2898292927",
+      "size": 2651,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/0fa8ab864e888702b0101c8db93dea2898292927"
+    },
+    {
+      "path": "data/avatar/10000015.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "134f71fe46fcdd1bd256f25bd8c6361052f3f9aa",
+      "size": 2613,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/134f71fe46fcdd1bd256f25bd8c6361052f3f9aa"
+    },
+    {
+      "path": "data/avatar/10000016.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4626a2f724e64644f78dca56a580d48a64ca6620",
+      "size": 2606,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/4626a2f724e64644f78dca56a580d48a64ca6620"
+    },
+    {
+      "path": "data/avatar/10000020.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "603a55575e7b950c259c3f8c9fa8ff753ea03426",
+      "size": 2535,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/603a55575e7b950c259c3f8c9fa8ff753ea03426"
+    },
+    {
+      "path": "data/avatar/10000021.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "535f86b19b1cac58fdb0649cf6489c97a458d657",
+      "size": 2589,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/535f86b19b1cac58fdb0649cf6489c97a458d657"
+    },
+    {
+      "path": "data/avatar/10000022.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9ef5856e5503df3131b252b92c36e125b86e01b3",
+      "size": 2603,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/9ef5856e5503df3131b252b92c36e125b86e01b3"
+    },
+    {
+      "path": "data/avatar/10000023.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "22b8af34e6db4c66d37148cac466576cf4d1d8eb",
+      "size": 2646,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/22b8af34e6db4c66d37148cac466576cf4d1d8eb"
+    },
+    {
+      "path": "data/avatar/10000024.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d5b221855ff69fc3275989b22c528fed04a375ce",
+      "size": 2595,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/d5b221855ff69fc3275989b22c528fed04a375ce"
+    },
+    {
+      "path": "data/avatar/10000025.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "aad24508d31c7981a8212e6d4c7afe432ac64605",
+      "size": 2670,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/aad24508d31c7981a8212e6d4c7afe432ac64605"
+    },
+    {
+      "path": "data/avatar/10000026.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1320dc4c6a679c77a502ed0cac837b51b589725b",
+      "size": 2654,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/1320dc4c6a679c77a502ed0cac837b51b589725b"
+    },
+    {
+      "path": "data/avatar/10000027.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "343621f4bf161faf5285324447edd678c3269839",
+      "size": 2704,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/343621f4bf161faf5285324447edd678c3269839"
+    },
+    {
+      "path": "data/avatar/10000029.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ae66411a3f44df125ce9aba6aab7e70ab6237087",
+      "size": 2577,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/ae66411a3f44df125ce9aba6aab7e70ab6237087"
+    },
+    {
+      "path": "data/avatar/10000030.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c7af66b0f267332d7ef5c2e7de4d301f9839a9d0",
+      "size": 2673,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/c7af66b0f267332d7ef5c2e7de4d301f9839a9d0"
+    },
+    {
+      "path": "data/avatar/10000031.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "427a962d6f8b82eb769a333a21226045730dcbb2",
+      "size": 2617,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/427a962d6f8b82eb769a333a21226045730dcbb2"
+    },
+    {
+      "path": "data/avatar/10000032.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "49e8786ab408e54f823ca96412a70161adc355f9",
+      "size": 2647,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/49e8786ab408e54f823ca96412a70161adc355f9"
+    },
+    {
+      "path": "data/avatar/10000033.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "749a983ea097a06f546e7cb598abbe147bcbce85",
+      "size": 2747,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/749a983ea097a06f546e7cb598abbe147bcbce85"
+    },
+    {
+      "path": "data/avatar/10000034.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5a042cdd25e59d9532988f6fab606268ee599896",
+      "size": 2625,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/5a042cdd25e59d9532988f6fab606268ee599896"
+    },
+    {
+      "path": "data/avatar/10000035.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f4f0b7e4b5da7919266754e6766019258f3cfdfb",
+      "size": 2609,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/f4f0b7e4b5da7919266754e6766019258f3cfdfb"
+    },
+    {
+      "path": "data/avatar/10000036.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ffe6af0895c0d15d339121f3564d041f19cdf48a",
+      "size": 2672,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/ffe6af0895c0d15d339121f3564d041f19cdf48a"
+    },
+    {
+      "path": "data/avatar/10000037.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f6b5634447f3f2bbaa3126bbe07d27d1d273406e",
+      "size": 2543,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/f6b5634447f3f2bbaa3126bbe07d27d1d273406e"
+    },
+    {
+      "path": "data/avatar/10000038.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1a8c3157ee5d77dc9cf0d0e9c9e7e0702c2b2567",
+      "size": 2683,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/1a8c3157ee5d77dc9cf0d0e9c9e7e0702c2b2567"
+    },
+    {
+      "path": "data/avatar/10000039.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1ec8aee2d6afd101f95950d70f67401791ef35b6",
+      "size": 2609,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/1ec8aee2d6afd101f95950d70f67401791ef35b6"
+    },
+    {
+      "path": "data/avatar/10000041.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "05d121795f168387bb21a409bf3f4ca3584ab300",
+      "size": 2714,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/05d121795f168387bb21a409bf3f4ca3584ab300"
+    },
+    {
+      "path": "data/avatar/10000042.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "05277ee24a7db4cdd4aa8ac4728206206f0a4e1a",
+      "size": 2572,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/05277ee24a7db4cdd4aa8ac4728206206f0a4e1a"
+    },
+    {
+      "path": "data/avatar/10000043.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "38f19ad298c176f9b4bb820dccde0c2c860e2f87",
+      "size": 2743,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/38f19ad298c176f9b4bb820dccde0c2c860e2f87"
+    },
+    {
+      "path": "data/avatar/10000044.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2911934d985ca34aceba9e09806e44a516b637bd",
+      "size": 2655,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/2911934d985ca34aceba9e09806e44a516b637bd"
+    },
+    {
+      "path": "data/avatar/10000045.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ad6c9ca55ec4bb545b93f439be32e272c3c373e4",
+      "size": 2655,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/ad6c9ca55ec4bb545b93f439be32e272c3c373e4"
+    },
+    {
+      "path": "data/avatar/10000046.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "66aa5edb9c779fc7332d38e16887472e5a17e8f8",
+      "size": 2654,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/66aa5edb9c779fc7332d38e16887472e5a17e8f8"
+    },
+    {
+      "path": "data/avatar/10000047.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0a5491eba9a3170e2ea513dcb3a30c57b910ae8f",
+      "size": 2624,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/0a5491eba9a3170e2ea513dcb3a30c57b910ae8f"
+    },
+    {
+      "path": "data/avatar/10000048.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4c1fe6a98a1adaaf6fcdaa9b640654147c2b52ee",
+      "size": 2635,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/4c1fe6a98a1adaaf6fcdaa9b640654147c2b52ee"
+    },
+    {
+      "path": "data/avatar/10000049.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5ba9fc96d1e25fefd36d2817b05a3015a2295c95",
+      "size": 2651,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/5ba9fc96d1e25fefd36d2817b05a3015a2295c95"
+    },
+    {
+      "path": "data/avatar/10000050.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "933bd1b08d2c298985efa6c966666384730e2685",
+      "size": 2643,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/933bd1b08d2c298985efa6c966666384730e2685"
+    },
+    {
+      "path": "data/avatar/10000051.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e9e591b33914aaf0677edded4101ebfab8112d74",
+      "size": 2636,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/e9e591b33914aaf0677edded4101ebfab8112d74"
+    },
+    {
+      "path": "data/avatar/10000052.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "da835b052f06b71459bda8490e51a6cc9e24d2d6",
+      "size": 2739,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/da835b052f06b71459bda8490e51a6cc9e24d2d6"
+    },
+    {
+      "path": "data/avatar/10000053.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "99f7894a0e28a8bc28eb640f6f66c2aed26cc458",
+      "size": 2682,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/99f7894a0e28a8bc28eb640f6f66c2aed26cc458"
+    },
+    {
+      "path": "data/avatar/10000054.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4a17ce52cfdf61bbf46ce14a322f829093e67347",
+      "size": 2722,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/4a17ce52cfdf61bbf46ce14a322f829093e67347"
+    },
+    {
+      "path": "data/avatar/10000055.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8dbead1a80657a519db9931266b7e30ce15bc283",
+      "size": 2664,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/8dbead1a80657a519db9931266b7e30ce15bc283"
+    },
+    {
+      "path": "data/avatar/10000056.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "041a2deac512885dafa67130cc4f067060a442e8",
+      "size": 2553,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/041a2deac512885dafa67130cc4f067060a442e8"
+    },
+    {
+      "path": "data/avatar/10000057.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4531943a34b25a141d94540d91da5144a3decd96",
+      "size": 2745,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/4531943a34b25a141d94540d91da5144a3decd96"
+    },
+    {
+      "path": "data/avatar/10000058.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "80ebe8d76e93b89fe1601ffed4574ae986ff6fc1",
+      "size": 2635,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/80ebe8d76e93b89fe1601ffed4574ae986ff6fc1"
+    },
+    {
+      "path": "data/avatar/10000059.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c47d21898d7e5480589d14c0c532af4c54b5705e",
+      "size": 2660,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/c47d21898d7e5480589d14c0c532af4c54b5705e"
+    },
+    {
+      "path": "data/avatar/10000060.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b72d621ab9e54ea1b5056be45aed35acd748905d",
+      "size": 2677,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/b72d621ab9e54ea1b5056be45aed35acd748905d"
+    },
+    {
+      "path": "data/avatar/10000061.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fec46274fe43136189adc32b33672d2b26b41c91",
+      "size": 2631,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/fec46274fe43136189adc32b33672d2b26b41c91"
+    },
+    {
+      "path": "data/avatar/10000062.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0b1bc61d4336117861d58d87e11c4b4ededd8be7",
+      "size": 2515,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/0b1bc61d4336117861d58d87e11c4b4ededd8be7"
+    },
+    {
+      "path": "data/avatar/10000063.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9e42fae0fd222603744864a773807a5b26270687",
+      "size": 2624,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/9e42fae0fd222603744864a773807a5b26270687"
+    },
+    {
+      "path": "data/avatar/10000064.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8e575c8f4f1254c393ac594bd0c0aa26c2a94eff",
+      "size": 2619,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/8e575c8f4f1254c393ac594bd0c0aa26c2a94eff"
+    },
+    {
+      "path": "data/avatar/10000065.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bd2274d14a0498ae4d03524ae138e35965fb16da",
+      "size": 2686,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/bd2274d14a0498ae4d03524ae138e35965fb16da"
+    },
+    {
+      "path": "data/avatar/10000066.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "da981c36c96ec9a53c866b9e99f995a810868ea3",
+      "size": 2638,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/da981c36c96ec9a53c866b9e99f995a810868ea3"
+    },
+    {
+      "path": "data/avatar/10000067.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1ed8336599aae990d141b5dcc6d5ed09a6303723",
+      "size": 2604,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/1ed8336599aae990d141b5dcc6d5ed09a6303723"
+    },
+    {
+      "path": "data/avatar/10000068.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0133ede1e94bf35409974099d3cb7c0f723f4604",
+      "size": 2640,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/0133ede1e94bf35409974099d3cb7c0f723f4604"
+    },
+    {
+      "path": "data/avatar/10000069.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "413788233b0d899ff93d134c20ae53ca486c7dfd",
+      "size": 2693,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/413788233b0d899ff93d134c20ae53ca486c7dfd"
+    },
+    {
+      "path": "data/avatar/10000070.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "002469b6c2234146c407e8feec9e72884b1c0927",
+      "size": 2651,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/002469b6c2234146c407e8feec9e72884b1c0927"
+    },
+    {
+      "path": "data/avatar/10000071.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "17b1dd6f4a272736e52c8c0009f720b6dfad21e9",
+      "size": 2676,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/17b1dd6f4a272736e52c8c0009f720b6dfad21e9"
+    },
+    {
+      "path": "data/avatar/10000072.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0de5c89c7810405ce59332bc945b8979f0332425",
+      "size": 2670,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/0de5c89c7810405ce59332bc945b8979f0332425"
+    },
+    {
+      "path": "data/avatar/10000073.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "04a88888f3ff6dab67cf3a758f2927bea10d78dd",
+      "size": 2655,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/04a88888f3ff6dab67cf3a758f2927bea10d78dd"
+    },
+    {
+      "path": "data/avatar/10000074.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "faf07af18211957546fb2eb5729ddd208c91ff1e",
+      "size": 2612,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/faf07af18211957546fb2eb5729ddd208c91ff1e"
+    },
+    {
+      "path": "data/avatar/10000075.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8fa9ca08f535329eb0850c4c4ad6c057271376e6",
+      "size": 2742,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/8fa9ca08f535329eb0850c4c4ad6c057271376e6"
+    },
+    {
+      "path": "data/avatar/10000076.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9d612c9fa83293eb8b3eca66c12003378670d719",
+      "size": 2604,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/9d612c9fa83293eb8b3eca66c12003378670d719"
+    },
+    {
+      "path": "data/avatar/10000077.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "04cdae0d84dd411cb407b53b473b18bf9d98c95e",
+      "size": 2645,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/04cdae0d84dd411cb407b53b473b18bf9d98c95e"
+    },
+    {
+      "path": "data/avatar/10000078.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "97feb06277a66e99835fca455d1d42cd6fce55a1",
+      "size": 2658,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/97feb06277a66e99835fca455d1d42cd6fce55a1"
+    },
+    {
+      "path": "data/avatar/10000079.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f77dca6dd41eed3d744d282ebe2e0ced8dfae3a3",
+      "size": 2682,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/f77dca6dd41eed3d744d282ebe2e0ced8dfae3a3"
+    },
+    {
+      "path": "data/avatar/10000080.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cec690350c90e6fae2f41d7a057fdd11085716f1",
+      "size": 2626,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/cec690350c90e6fae2f41d7a057fdd11085716f1"
+    },
+    {
+      "path": "data/avatar/10000081.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9220b4906fd5b24425bbda982611a04e901757e7",
+      "size": 2620,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/9220b4906fd5b24425bbda982611a04e901757e7"
+    },
+    {
+      "path": "data/avatar/10000082.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "256421f6a1041c1e249a26e245e9f03f776bf040",
+      "size": 2646,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/256421f6a1041c1e249a26e245e9f03f776bf040"
+    },
+    {
+      "path": "data/avatar/10000083.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "036269df1e60bc74a1e32af4ca07b9d7a51ea793",
+      "size": 2707,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/036269df1e60bc74a1e32af4ca07b9d7a51ea793"
+    },
+    {
+      "path": "data/avatar/10000084.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "db8a1c7da5d1ed297ab59dd8855116dc7d1601d8",
+      "size": 2670,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/db8a1c7da5d1ed297ab59dd8855116dc7d1601d8"
+    },
+    {
+      "path": "data/avatar/10000085.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a710c36790e3221a7f52a24e607a6b26d6f475e7",
+      "size": 2713,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/a710c36790e3221a7f52a24e607a6b26d6f475e7"
+    },
+    {
+      "path": "data/avatar/10000086.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "867672164042e7e836e1b770ac5c2f6b69eec7af",
+      "size": 2812,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/867672164042e7e836e1b770ac5c2f6b69eec7af"
+    },
+    {
+      "path": "data/avatar/10000087.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ca94ac761ff637f87325b5505510545dc19c7b43",
+      "size": 2798,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/ca94ac761ff637f87325b5505510545dc19c7b43"
+    },
+    {
+      "path": "data/avatar/10000088.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4919625bdd0d5de92795dbc907b1281ea780d2ce",
+      "size": 2741,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/4919625bdd0d5de92795dbc907b1281ea780d2ce"
+    },
+    {
+      "path": "data/avatar/10000089.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "de0074ac2875c1d17e285a09911c2e93a94476b6",
+      "size": 2806,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/de0074ac2875c1d17e285a09911c2e93a94476b6"
+    },
+    {
+      "path": "data/avatar/10000090.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bfdb0641f9af502f11bd9439f5255af98bbf6858",
+      "size": 2775,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/bfdb0641f9af502f11bd9439f5255af98bbf6858"
+    },
+    {
+      "path": "data/avatar/10000091.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "57173614e84cb831ec007cd0a81d920a4dd76adc",
+      "size": 2718,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/57173614e84cb831ec007cd0a81d920a4dd76adc"
+    },
+    {
+      "path": "resources/avatar/UI_AvatarIcon_Albedo.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0f2f4ff98fe8df93f5158bb5771530bb1b1649a3",
+      "size": 75656,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/0f2f4ff98fe8df93f5158bb5771530bb1b1649a3"
+    },
+    {
+      "path": "resources/avatar/UI_AvatarIcon_Alhatham.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8b3d66c4f6f5b3e073b31db627d4ce7613fe9b2c",
+      "size": 88333,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/8b3d66c4f6f5b3e073b31db627d4ce7613fe9b2c"
+    },
+    {
+      "path": "resources/avatar/UI_AvatarIcon_Aloy.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3ae3046cddede44ef06bb22827ff8388f6389515",
+      "size": 77383,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/3ae3046cddede44ef06bb22827ff8388f6389515"
+    },
+    {
+      "path": "resources/avatar/UI_AvatarIcon_Ambor.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e19d6cf3d17af4c74842cc7e126691edef6479e5",
+      "size": 61706,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/e19d6cf3d17af4c74842cc7e126691edef6479e5"
+    },
+    {
+      "path": "resources/avatar/UI_AvatarIcon_Ayaka.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2881b6b1a9454758cae50cd494f40006bd3c1f83",
+      "size": 59924,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/2881b6b1a9454758cae50cd494f40006bd3c1f83"
+    },
+    {
+      "path": "resources/avatar/UI_AvatarIcon_Ayato.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1f72515923c87689b58df1fd1f8d11d3e0ef1855",
+      "size": 77937,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/1f72515923c87689b58df1fd1f8d11d3e0ef1855"
+    },
+    {
+      "path": "resources/avatar/UI_AvatarIcon_Baizhuer.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "63bba795d2f39653a1ad25a63d2652a2d2f6d7c6",
+      "size": 88319,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/63bba795d2f39653a1ad25a63d2652a2d2f6d7c6"
+    },
+    {
+      "path": "resources/avatar/UI_AvatarIcon_Barbara.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4ca4137b9351c33e15c966aa808bc9011649cde9",
+      "size": 80150,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/4ca4137b9351c33e15c966aa808bc9011649cde9"
+    },
+    {
+      "path": "resources/avatar/UI_AvatarIcon_Beidou.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "603f7ba311d93eac686a4ff0f5e8d1939d630ccd",
+      "size": 78522,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/603f7ba311d93eac686a4ff0f5e8d1939d630ccd"
+    },
+    {
+      "path": "resources/avatar/UI_AvatarIcon_Bennett.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "86ee0c24346745768addb6d12a9a79ecdf218f44",
+      "size": 67999,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/86ee0c24346745768addb6d12a9a79ecdf218f44"
+    },
+    {
+      "path": "resources/avatar/UI_AvatarIcon_Candace.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "219327b96e622ac9d2b25c6e3f4a75798c72c622",
+      "size": 87193,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/219327b96e622ac9d2b25c6e3f4a75798c72c622"
+    },
+    {
+      "path": "resources/avatar/UI_AvatarIcon_Charlotte.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a311dc029529841ed4aaa4113259df89e03bf9f1",
+      "size": 34399,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/a311dc029529841ed4aaa4113259df89e03bf9f1"
+    },
+    {
+      "path": "resources/avatar/UI_AvatarIcon_Chevreuse.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0e591ee778aac4be3110a45cc9570032b9f1fed0",
+      "size": 37793,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/0e591ee778aac4be3110a45cc9570032b9f1fed0"
+    },
+    {
+      "path": "resources/avatar/UI_AvatarIcon_Chongyun.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9c8613c07a716ebbc4a2a3f92c57af67d4e1669c",
+      "size": 62838,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/9c8613c07a716ebbc4a2a3f92c57af67d4e1669c"
+    },
+    {
+      "path": "resources/avatar/UI_AvatarIcon_Collei.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ccf756b2bea7af8fa5234b5d97db84b569742989",
+      "size": 85697,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/ccf756b2bea7af8fa5234b5d97db84b569742989"
+    },
+    {
+      "path": "resources/avatar/UI_AvatarIcon_Cyno.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3ccfdc210c7a1d1804478a4accb7bff06a0d4cc7",
+      "size": 84694,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/3ccfdc210c7a1d1804478a4accb7bff06a0d4cc7"
+    },
+    {
+      "path": "resources/avatar/UI_AvatarIcon_Dehya.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "42725a1076abb068d7b782c7925d5bdc0b05e8df",
+      "size": 93292,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/42725a1076abb068d7b782c7925d5bdc0b05e8df"
+    },
+    {
+      "path": "resources/avatar/UI_AvatarIcon_Diluc.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c3e5178b8e280f21371b8acad4d1ccbbec2642fb",
+      "size": 80041,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/c3e5178b8e280f21371b8acad4d1ccbbec2642fb"
+    },
+    {
+      "path": "resources/avatar/UI_AvatarIcon_Diona.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1c2a00dc9145bbf36b59a581cb23cf33578f0aa4",
+      "size": 71336,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/1c2a00dc9145bbf36b59a581cb23cf33578f0aa4"
+    },
+    {
+      "path": "resources/avatar/UI_AvatarIcon_Dori.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fee7c2ad1106cfd879fdf63196649562496e9e5e",
+      "size": 91628,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/fee7c2ad1106cfd879fdf63196649562496e9e5e"
+    },
+    {
+      "path": "resources/avatar/UI_AvatarIcon_Eula.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "66784308784f560407cd8af5512183336831af44",
+      "size": 89211,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/66784308784f560407cd8af5512183336831af44"
+    },
+    {
+      "path": "resources/avatar/UI_AvatarIcon_Faruzan.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0c396a12582633c17c8460d3cb6614fc3f479bd4",
+      "size": 90069,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/0c396a12582633c17c8460d3cb6614fc3f479bd4"
+    },
+    {
+      "path": "resources/avatar/UI_AvatarIcon_Feiyan.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "605e9b327401a46446a2e650e18a888b5dfb5558",
+      "size": 93965,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/605e9b327401a46446a2e650e18a888b5dfb5558"
+    },
+    {
+      "path": "resources/avatar/UI_AvatarIcon_Fischl.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a5777a3f950e1ba621c70b67345a7cc3d1437db4",
+      "size": 74626,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/a5777a3f950e1ba621c70b67345a7cc3d1437db4"
+    },
+    {
+      "path": "resources/avatar/UI_AvatarIcon_Freminet.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "763cf04a139c464b3197e3c0601f16ff4c6e22bd",
+      "size": 74808,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/763cf04a139c464b3197e3c0601f16ff4c6e22bd"
+    },
+    {
+      "path": "resources/avatar/UI_AvatarIcon_Furina.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ad4791e6eced8435ccc3f6cbb2277d96cbb77b3f",
+      "size": 39411,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/ad4791e6eced8435ccc3f6cbb2277d96cbb77b3f"
+    },
+    {
+      "path": "resources/avatar/UI_AvatarIcon_Ganyu.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e6cbeb2fffbf7fc8a50eb67100f0aaff6de77c49",
+      "size": 80135,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/e6cbeb2fffbf7fc8a50eb67100f0aaff6de77c49"
+    },
+    {
+      "path": "resources/avatar/UI_AvatarIcon_Gorou.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "46d1b1792244950dd74c637d52cae0682c27560a",
+      "size": 84498,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/46d1b1792244950dd74c637d52cae0682c27560a"
+    },
+    {
+      "path": "resources/avatar/UI_AvatarIcon_Heizo.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3d8abe879d831358b8dada9d1a78e597959a3479",
+      "size": 68415,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/3d8abe879d831358b8dada9d1a78e597959a3479"
+    },
+    {
+      "path": "resources/avatar/UI_AvatarIcon_Hutao.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "da97c10bce397ae9dee0103f35684cfb7418c8f1",
+      "size": 77254,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/da97c10bce397ae9dee0103f35684cfb7418c8f1"
+    },
+    {
+      "path": "resources/avatar/UI_AvatarIcon_Itto.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "719766dddfb47e8ccaa1d344127adad1a7dc9d3c",
+      "size": 86479,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/719766dddfb47e8ccaa1d344127adad1a7dc9d3c"
+    },
+    {
+      "path": "resources/avatar/UI_AvatarIcon_Kaeya.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "66f6a9c67bca7039f84181aa34eb274181d51f0a",
+      "size": 72828,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/66f6a9c67bca7039f84181aa34eb274181d51f0a"
+    },
+    {
+      "path": "resources/avatar/UI_AvatarIcon_Kaveh.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "60fccddcaf94e9d2a0c0cb43051fddcdaa829d18",
+      "size": 90900,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/60fccddcaf94e9d2a0c0cb43051fddcdaa829d18"
+    },
+    {
+      "path": "resources/avatar/UI_AvatarIcon_Kazuha.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "046f3c6d5774194e38087a8a90e548b3f18f8a04",
+      "size": 71170,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/046f3c6d5774194e38087a8a90e548b3f18f8a04"
+    },
+    {
+      "path": "resources/avatar/UI_AvatarIcon_Keqing.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2d1e34aef3d8609f72f4509da4549521dc92c039",
+      "size": 79523,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/2d1e34aef3d8609f72f4509da4549521dc92c039"
+    },
+    {
+      "path": "resources/avatar/UI_AvatarIcon_Klee.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0234a500d50efbdd9b523a0f2f2e0711a45e0ac9",
+      "size": 82020,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/0234a500d50efbdd9b523a0f2f2e0711a45e0ac9"
+    },
+    {
+      "path": "resources/avatar/UI_AvatarIcon_Kokomi.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4ebfee3ccbbffd53999658d13567c4b95a9fd5b3",
+      "size": 68134,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/4ebfee3ccbbffd53999658d13567c4b95a9fd5b3"
+    },
+    {
+      "path": "resources/avatar/UI_AvatarIcon_Layla.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1d6b5cf49b4eb63821e110d71973085c24cfdede",
+      "size": 84823,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/1d6b5cf49b4eb63821e110d71973085c24cfdede"
+    },
+    {
+      "path": "resources/avatar/UI_AvatarIcon_Linette.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "91ca2b6076ced5ab4e442a95b9e0266fba547f5a",
+      "size": 74672,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/91ca2b6076ced5ab4e442a95b9e0266fba547f5a"
+    },
+    {
+      "path": "resources/avatar/UI_AvatarIcon_Liney.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "50742ad91c3a50cdc9e43bf8960b963ac3b2e49e",
+      "size": 70346,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/50742ad91c3a50cdc9e43bf8960b963ac3b2e49e"
+    },
+    {
+      "path": "resources/avatar/UI_AvatarIcon_Lisa.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "89dae51c0a8f7e955aed5313d018789135da06db",
+      "size": 90451,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/89dae51c0a8f7e955aed5313d018789135da06db"
+    },
+    {
+      "path": "resources/avatar/UI_AvatarIcon_Mika.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7c6dcc3f51c68f4c909424e9cd426b52b1f59b0d",
+      "size": 84181,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/7c6dcc3f51c68f4c909424e9cd426b52b1f59b0d"
+    },
+    {
+      "path": "resources/avatar/UI_AvatarIcon_Momoka.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "89187e7dd24a9fa1db70462934e3adca9f61c206",
+      "size": 94746,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/89187e7dd24a9fa1db70462934e3adca9f61c206"
+    },
+    {
+      "path": "resources/avatar/UI_AvatarIcon_Mona.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1a48188da303d697bb4dd7ca90bad6f6d8242295",
+      "size": 102946,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/1a48188da303d697bb4dd7ca90bad6f6d8242295"
+    },
+    {
+      "path": "resources/avatar/UI_AvatarIcon_Nahida.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b375db5d293d724582bbc257add23fb303841057",
+      "size": 107965,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/b375db5d293d724582bbc257add23fb303841057"
+    },
+    {
+      "path": "resources/avatar/UI_AvatarIcon_Navia.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0e6a6c3f8ddeb289bc87c9633bdb216e92196171",
+      "size": 42907,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/0e6a6c3f8ddeb289bc87c9633bdb216e92196171"
+    },
+    {
+      "path": "resources/avatar/UI_AvatarIcon_Neuvillette.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b95d274f7e078be27aa87faed315a8f1f9e8d866",
+      "size": 35720,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/b95d274f7e078be27aa87faed315a8f1f9e8d866"
+    },
+    {
+      "path": "resources/avatar/UI_AvatarIcon_Nilou.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dfb544b97eeadd1200129af934aa19516cf90d9d",
+      "size": 96053,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/dfb544b97eeadd1200129af934aa19516cf90d9d"
+    },
+    {
+      "path": "resources/avatar/UI_AvatarIcon_Ningguang.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d247bfb5faa29be2f540b2ed369f84d9b0576960",
+      "size": 77495,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/d247bfb5faa29be2f540b2ed369f84d9b0576960"
+    },
+    {
+      "path": "resources/avatar/UI_AvatarIcon_Noel.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "faf397ebdfa40809f3436a1ffaa4e82a7f4a1b6c",
+      "size": 85838,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/faf397ebdfa40809f3436a1ffaa4e82a7f4a1b6c"
+    },
+    {
+      "path": "resources/avatar/UI_AvatarIcon_Qin.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1295fbf7cdd8f05c68bda58c86d01ba8a6dd5a0f",
+      "size": 61276,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/1295fbf7cdd8f05c68bda58c86d01ba8a6dd5a0f"
+    },
+    {
+      "path": "resources/avatar/UI_AvatarIcon_Qiqi.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9e7d5a59a6f73c17cb3d44ce7aa2fa62a9332916",
+      "size": 71352,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/9e7d5a59a6f73c17cb3d44ce7aa2fa62a9332916"
+    },
+    {
+      "path": "resources/avatar/UI_AvatarIcon_Razor.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "59cfcef5a48946e80bdb220ead58875f21f1b713",
+      "size": 66056,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/59cfcef5a48946e80bdb220ead58875f21f1b713"
+    },
+    {
+      "path": "resources/avatar/UI_AvatarIcon_Rosaria.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "79ac91bfefee56d70b2ba4f82a0a7144b396cab6",
+      "size": 73022,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/79ac91bfefee56d70b2ba4f82a0a7144b396cab6"
+    },
+    {
+      "path": "resources/avatar/UI_AvatarIcon_Sara.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5fb8294f65cc3ec7e5ae55cf196d505791df5a8f",
+      "size": 65723,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/5fb8294f65cc3ec7e5ae55cf196d505791df5a8f"
+    },
+    {
+      "path": "resources/avatar/UI_AvatarIcon_Sayu.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b9a7f4e1d65b374ace6757f813310a39ebee89cc",
+      "size": 80089,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/b9a7f4e1d65b374ace6757f813310a39ebee89cc"
+    },
+    {
+      "path": "resources/avatar/UI_AvatarIcon_Shenhe.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "175d9fa686100941ea8ff2bbf8702d430bdd706a",
+      "size": 73636,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/175d9fa686100941ea8ff2bbf8702d430bdd706a"
+    },
+    {
+      "path": "resources/avatar/UI_AvatarIcon_Shinobu.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a8e4863a09b77a5b91a599dabb9b11a21fba6807",
+      "size": 88757,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/a8e4863a09b77a5b91a599dabb9b11a21fba6807"
+    },
+    {
+      "path": "resources/avatar/UI_AvatarIcon_Shougun.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6dcd9479e0ba5a4b66d15ea86c7a9ffc7412ec67",
+      "size": 83052,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/6dcd9479e0ba5a4b66d15ea86c7a9ffc7412ec67"
+    },
+    {
+      "path": "resources/avatar/UI_AvatarIcon_Sucrose.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "480e029f4d8fc4e2dad00c51b61ab1a113dd6c01",
+      "size": 82559,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/480e029f4d8fc4e2dad00c51b61ab1a113dd6c01"
+    },
+    {
+      "path": "resources/avatar/UI_AvatarIcon_Tartaglia.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "09cbecad9d906c18d3c4a07eb431740ef665ef86",
+      "size": 82069,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/09cbecad9d906c18d3c4a07eb431740ef665ef86"
+    },
+    {
+      "path": "resources/avatar/UI_AvatarIcon_Tighnari.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ad9bf16cc617f7908a22ae5036dec559e69e88ff",
+      "size": 85441,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/ad9bf16cc617f7908a22ae5036dec559e69e88ff"
+    },
+    {
+      "path": "resources/avatar/UI_AvatarIcon_Tohma.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e2f67132c8a5f9fea8e572425a25cd32a9c21945",
+      "size": 66531,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/e2f67132c8a5f9fea8e572425a25cd32a9c21945"
+    },
+    {
+      "path": "resources/avatar/UI_AvatarIcon_Venti.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8bd68234ba9a935d83c748cad302642b5af84643",
+      "size": 69084,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/8bd68234ba9a935d83c748cad302642b5af84643"
+    },
+    {
+      "path": "resources/avatar/UI_AvatarIcon_Wanderer.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c877aa19a851f92f86870f11e982958b4025c60f",
+      "size": 81186,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/c877aa19a851f92f86870f11e982958b4025c60f"
+    },
+    {
+      "path": "resources/avatar/UI_AvatarIcon_Wriothesley.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "367ebfa1b65f2b2c89d612404da3738ba9043aed",
+      "size": 28116,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/367ebfa1b65f2b2c89d612404da3738ba9043aed"
+    },
+    {
+      "path": "resources/avatar/UI_AvatarIcon_Xiangling.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3ff4080e18ea782836972e0b459558015b8173b3",
+      "size": 58594,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/3ff4080e18ea782836972e0b459558015b8173b3"
+    },
+    {
+      "path": "resources/avatar/UI_AvatarIcon_Xiao.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "38a1d8d1b5278ee31fbbfc43cfa97ad36ee83385",
+      "size": 72352,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/38a1d8d1b5278ee31fbbfc43cfa97ad36ee83385"
+    },
+    {
+      "path": "resources/avatar/UI_AvatarIcon_Xingqiu.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b025fb2dc7f0438649f37154e1cbfec2d9f3f022",
+      "size": 58572,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/b025fb2dc7f0438649f37154e1cbfec2d9f3f022"
+    },
+    {
+      "path": "resources/avatar/UI_AvatarIcon_Xinyan.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5dff92313e3381790a55ee93aee06d8650c128d5",
+      "size": 85711,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/5dff92313e3381790a55ee93aee06d8650c128d5"
+    },
+    {
+      "path": "resources/avatar/UI_AvatarIcon_Yae.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4ad9407fd5ab29442279214a8e4b8315bf56131a",
+      "size": 84360,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/4ad9407fd5ab29442279214a8e4b8315bf56131a"
+    },
+    {
+      "path": "resources/avatar/UI_AvatarIcon_Yaoyao.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0f3bbd3575990320592998da7f87cebc103e882c",
+      "size": 87952,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/0f3bbd3575990320592998da7f87cebc103e882c"
+    },
+    {
+      "path": "resources/avatar/UI_AvatarIcon_Yelan.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ae636f5faea141aa38bb86032d64c11c0fea9dfd",
+      "size": 66727,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/ae636f5faea141aa38bb86032d64c11c0fea9dfd"
+    },
+    {
+      "path": "resources/avatar/UI_AvatarIcon_Yoimiya.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bcb5bc7c2772400b2dbccd332099fb4d66b5b055",
+      "size": 83259,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/bcb5bc7c2772400b2dbccd332099fb4d66b5b055"
+    },
+    {
+      "path": "resources/avatar/UI_AvatarIcon_Yunjin.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2d6e7e9ceb97c36c8883eae5617b8e836b09d028",
+      "size": 71032,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/2d6e7e9ceb97c36c8883eae5617b8e836b09d028"
+    },
+    {
+      "path": "resources/avatar/UI_AvatarIcon_Zhongli.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "649da0c59a68bcb629b2fe28c629d42002050358",
+      "size": 67907,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/649da0c59a68bcb629b2fe28c629d42002050358"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Albedo.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a02170e07fe634621f1530b3bd271ddfa9975ac4",
+      "size": 1511657,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/a02170e07fe634621f1530b3bd271ddfa9975ac4"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Alhatham.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "82aa695fc78d3eac96f0695e02d84c8897183f03",
+      "size": 1436391,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/82aa695fc78d3eac96f0695e02d84c8897183f03"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Aloy.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b94d6a6b90c01d3e473129d67da47cac186dfd66",
+      "size": 874277,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/b94d6a6b90c01d3e473129d67da47cac186dfd66"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Ambor.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dff12619126dd1f1c767522d649f8a4efb4d13ff",
+      "size": 669044,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/dff12619126dd1f1c767522d649f8a4efb4d13ff"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Ayaka.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "33be0a3cb280d0a0d3153397d25fb7cb8d8a857b",
+      "size": 1848303,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/33be0a3cb280d0a0d3153397d25fb7cb8d8a857b"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Ayato.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9e7459e0ea12abe872fefe9666ee9efbcadb2b1c",
+      "size": 1242895,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/9e7459e0ea12abe872fefe9666ee9efbcadb2b1c"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Baizhuer.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "20ee1983a963dbc36ccabc152e6d5e9a10d1318b",
+      "size": 1686598,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/20ee1983a963dbc36ccabc152e6d5e9a10d1318b"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Barbara.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "576b75d12f9ec48212c15fcb41c983a40d3322bd",
+      "size": 746192,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/576b75d12f9ec48212c15fcb41c983a40d3322bd"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Beidou.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "76f649f7537f4d9e64190b9680846a76a1b6d61c",
+      "size": 1180105,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/76f649f7537f4d9e64190b9680846a76a1b6d61c"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Bennett.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "56c32b7e0573f0a46797e64eaf212c0252a0f120",
+      "size": 925673,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/56c32b7e0573f0a46797e64eaf212c0252a0f120"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Candace.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1d892a8f0173cbfa17a3e180fbdf68b0cef2492c",
+      "size": 1124728,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/1d892a8f0173cbfa17a3e180fbdf68b0cef2492c"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Charlotte.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6418dbf930b79d4ec551f7721177fb7d62622f89",
+      "size": 1163867,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/6418dbf930b79d4ec551f7721177fb7d62622f89"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Chevreuse.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "81975f72e3155f6ada00c92589496d7be181b882",
+      "size": 896898,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/81975f72e3155f6ada00c92589496d7be181b882"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Chongyun.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fee0fa562672aa5a31faa5ea248e78ef6590749e",
+      "size": 1008872,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/fee0fa562672aa5a31faa5ea248e78ef6590749e"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Collei.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1a92b17f475c42b0d01d1276c0123426fcc27c74",
+      "size": 938703,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/1a92b17f475c42b0d01d1276c0123426fcc27c74"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Cyno.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3c9b0ae32985d54f8edbb2fdbd31da36e609afc7",
+      "size": 1144083,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/3c9b0ae32985d54f8edbb2fdbd31da36e609afc7"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Dehya.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "65dd9a7cd3c50804497d2d26f6fbeae4f102f755",
+      "size": 1427375,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/65dd9a7cd3c50804497d2d26f6fbeae4f102f755"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Diluc.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8f02a2a19a659035af29b7bbf2b507f88ef6fcd3",
+      "size": 1571981,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/8f02a2a19a659035af29b7bbf2b507f88ef6fcd3"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Diona.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "46ac5373582f503b69fb41baf5c73d37c008b4c7",
+      "size": 495336,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/46ac5373582f503b69fb41baf5c73d37c008b4c7"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Dori.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f85a69d6f1ac3f540770da6091547430c9bc4ae3",
+      "size": 901802,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/f85a69d6f1ac3f540770da6091547430c9bc4ae3"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Eula.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6af102ab14146a1d5015c65215bbb0682f01408c",
+      "size": 1206901,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/6af102ab14146a1d5015c65215bbb0682f01408c"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Faruzan.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6ac5188250cf37c459eaa33a9095940ad6f23764",
+      "size": 766425,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/6ac5188250cf37c459eaa33a9095940ad6f23764"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Feiyan.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7139ca4158d5edc24d54e219c6006637bc0eefda",
+      "size": 919956,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/7139ca4158d5edc24d54e219c6006637bc0eefda"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Fischl.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "70c4f2e6cb345d6bdb1c29449126f8acd2740976",
+      "size": 805769,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/70c4f2e6cb345d6bdb1c29449126f8acd2740976"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Freminet.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "09998fdaecdc02d3e0b1e152bd1710c0443a05c3",
+      "size": 1278794,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/09998fdaecdc02d3e0b1e152bd1710c0443a05c3"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Furina.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b70f9362e48da548eba5d6fc2edf6b6d40ab4a11",
+      "size": 2652174,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/b70f9362e48da548eba5d6fc2edf6b6d40ab4a11"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Gaming.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3be16d0e33b0c137727aa82c0f738a730af287bf",
+      "size": 1142633,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/3be16d0e33b0c137727aa82c0f738a730af287bf"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Ganyu.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cd6d967084f5917cae0f2f1ab0b92518e4949a9c",
+      "size": 1146141,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/cd6d967084f5917cae0f2f1ab0b92518e4949a9c"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Gorou.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4e48ad7b8c457f67907d8f4db7b0664771bf73c9",
+      "size": 712331,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/4e48ad7b8c457f67907d8f4db7b0664771bf73c9"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Heizo.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6762abaf5f6e43783c389cd1978360b6b96026c9",
+      "size": 775265,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/6762abaf5f6e43783c389cd1978360b6b96026c9"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Hutao.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "40baea660e0779534c8662d302ffba77feebee87",
+      "size": 1340408,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/40baea660e0779534c8662d302ffba77feebee87"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Itto.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "84d4e973471448f90e4fc7ccbfc79e53226de01a",
+      "size": 1221674,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/84d4e973471448f90e4fc7ccbfc79e53226de01a"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Kaeya.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bb7c1163024a3a8de60164b0b48c629c777a7e67",
+      "size": 644068,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/bb7c1163024a3a8de60164b0b48c629c777a7e67"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Kaveh.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "589e2c711f5acb32d05cafada1bde28266f1f8c1",
+      "size": 1210150,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/589e2c711f5acb32d05cafada1bde28266f1f8c1"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Kazuha.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c3c8f0b5137c82ee9c0e9cadd008908462ce5af3",
+      "size": 847722,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/c3c8f0b5137c82ee9c0e9cadd008908462ce5af3"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Keqing.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4566effad4fcb7ff0749a3945fa42217b1b0c693",
+      "size": 1152145,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/4566effad4fcb7ff0749a3945fa42217b1b0c693"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Klee.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c076a85f3a9fcec0ff943f27ec7cf0f77ee4e040",
+      "size": 565496,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/c076a85f3a9fcec0ff943f27ec7cf0f77ee4e040"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Kokomi.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a46a7bdd51e79428f7bbaf0942fa8f1ae7247501",
+      "size": 1083453,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/a46a7bdd51e79428f7bbaf0942fa8f1ae7247501"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Layla.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ad2d72fc6bd27f9a9d624fe1c494083762dead00",
+      "size": 1093123,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/ad2d72fc6bd27f9a9d624fe1c494083762dead00"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Linette.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "56679e088f5ddadd2cbdb14313e60e08cc9a2d41",
+      "size": 737496,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/56679e088f5ddadd2cbdb14313e60e08cc9a2d41"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Liney.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ea8eda6dc851e7c52b01c47a0b53b30f5889a0e9",
+      "size": 1671925,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/ea8eda6dc851e7c52b01c47a0b53b30f5889a0e9"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Lisa.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "57246f9aac362d293046d5e90ad2724331c22c01",
+      "size": 534331,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/57246f9aac362d293046d5e90ad2724331c22c01"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Liuyun.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f0054d211cc7a9ab8a6fb9f56144f80dddb2005a",
+      "size": 1776589,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/f0054d211cc7a9ab8a6fb9f56144f80dddb2005a"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Mika.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a06ea24790f3f0afc619a063bb3bd9cc86db63ff",
+      "size": 825406,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/a06ea24790f3f0afc619a063bb3bd9cc86db63ff"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Momoka.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dad2ebdc8df40defe414fc7e07a6db4bfa31a8fb",
+      "size": 1183241,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/dad2ebdc8df40defe414fc7e07a6db4bfa31a8fb"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Mona.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "47c475dd2b0289ad465cdc4e442cce3056e9e58f",
+      "size": 1927375,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/47c475dd2b0289ad465cdc4e442cce3056e9e58f"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Nahida.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4439872837d3c6d0fb2746172f52e1364a6dfff3",
+      "size": 1878930,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/4439872837d3c6d0fb2746172f52e1364a6dfff3"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Navia.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d0d57e4632c841abbfc68ed830e84fbd02acaa97",
+      "size": 1525262,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/d0d57e4632c841abbfc68ed830e84fbd02acaa97"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Neuvillette.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8ccf05ee6f0eec8b71a69c0ba650ecd0e7262f86",
+      "size": 2136351,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/8ccf05ee6f0eec8b71a69c0ba650ecd0e7262f86"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Nilou.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "af5df753c168a75dfff04846bfeb0c0b02162edd",
+      "size": 1339214,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/af5df753c168a75dfff04846bfeb0c0b02162edd"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Ningguang.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8f9632e26266407f40e6df12598fb3ae44e6fc94",
+      "size": 962984,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/8f9632e26266407f40e6df12598fb3ae44e6fc94"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Noel.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7141e1750860c7467fa58175c9cb09e665c08cfd",
+      "size": 692608,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/7141e1750860c7467fa58175c9cb09e665c08cfd"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_PlayerBoy.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "83a10711c38a4c41ff972d38c21e4891c50081d2",
+      "size": 674503,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/83a10711c38a4c41ff972d38c21e4891c50081d2"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_PlayerGirl.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dcab4e6a94ddc57c3e1765ae7c5cde865d979ea5",
+      "size": 735097,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/dcab4e6a94ddc57c3e1765ae7c5cde865d979ea5"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Qin.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c04640b081d10503a1069970360020b8314b55c2",
+      "size": 1090290,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/c04640b081d10503a1069970360020b8314b55c2"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Qiqi.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b06705fae6f53ff2047e18540b8897a06c1bb4af",
+      "size": 1247253,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/b06705fae6f53ff2047e18540b8897a06c1bb4af"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Razor.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "19320d5888bf16bace9d6a3014c7608f69193a3f",
+      "size": 1026882,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/19320d5888bf16bace9d6a3014c7608f69193a3f"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Rosaria.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6e01b39d2e1091c113ffaccb304b2cb351328e3d",
+      "size": 834575,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/6e01b39d2e1091c113ffaccb304b2cb351328e3d"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Sara.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "016d5ea5a9770063e9227e2a10c030a96753fdeb",
+      "size": 668958,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/016d5ea5a9770063e9227e2a10c030a96753fdeb"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Sayu.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "380b36b2a97c02796eaacc1335c323f125fff8a0",
+      "size": 700980,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/380b36b2a97c02796eaacc1335c323f125fff8a0"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Shenhe.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "900d2f7f61d54eca13236ad1d872d5fd45d88e51",
+      "size": 1275756,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/900d2f7f61d54eca13236ad1d872d5fd45d88e51"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Shinobu.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "496e80b8d1495cae41852b1852ee41b3b37c970b",
+      "size": 548871,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/496e80b8d1495cae41852b1852ee41b3b37c970b"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Shougun.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4bbaefc489abebc1f5dd9d57069a51046eb89b82",
+      "size": 1267646,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/4bbaefc489abebc1f5dd9d57069a51046eb89b82"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Sucrose.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bd4b3fbcb1b432c313c37585f6d943415628aefc",
+      "size": 776027,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/bd4b3fbcb1b432c313c37585f6d943415628aefc"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Tartaglia.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "024e4b9dfe4dde46426ceb6c15c5da75cf2a53e8",
+      "size": 1575573,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/024e4b9dfe4dde46426ceb6c15c5da75cf2a53e8"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Tighnari.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "280197e363b732155ebbd208b2c3eade60a4f3f1",
+      "size": 1167676,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/280197e363b732155ebbd208b2c3eade60a4f3f1"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Tohma.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "25c0f9ab2fb28cf2990893866d3e824923388d1b",
+      "size": 910781,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/25c0f9ab2fb28cf2990893866d3e824923388d1b"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Venti.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4728f40ade988af495095bb966a1c878a0eba318",
+      "size": 1075055,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/4728f40ade988af495095bb966a1c878a0eba318"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Wanderer.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3a166290c47e01f088378c7508a8dc0a8c75e14a",
+      "size": 1328190,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/3a166290c47e01f088378c7508a8dc0a8c75e14a"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Wriothesley.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9cac82db4fe15e4f9f0c38fffcb3a3dbb2271fd0",
+      "size": 2430439,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/9cac82db4fe15e4f9f0c38fffcb3a3dbb2271fd0"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Xiangling.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c8178233b0028452e28671b76987627a0fa677d6",
+      "size": 644783,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/c8178233b0028452e28671b76987627a0fa677d6"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Xiao.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f7cdeb71f9f7de4c3458f5823473b753e08b3762",
+      "size": 1197285,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/f7cdeb71f9f7de4c3458f5823473b753e08b3762"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Xingqiu.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "90d6839d5c073d344bf8b11cad02d69fd13518a4",
+      "size": 602875,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/90d6839d5c073d344bf8b11cad02d69fd13518a4"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Xinyan.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0832859ce180858c341a21bed2d5197261bc8038",
+      "size": 1516562,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/0832859ce180858c341a21bed2d5197261bc8038"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Yae.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "768994bbb4c07ee47ed1320cef29d0cfe3ee8626",
+      "size": 1353336,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/768994bbb4c07ee47ed1320cef29d0cfe3ee8626"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Yaoyao.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5621d3b827c457e6906480b434de4043cabd734c",
+      "size": 473288,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/5621d3b827c457e6906480b434de4043cabd734c"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Yelan.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3d59b7f778f0243ac281854a6b3eb6f0dc670229",
+      "size": 1308446,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/3d59b7f778f0243ac281854a6b3eb6f0dc670229"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Yoimiya.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "146d495b64ed44c8068dd47e4c2ca5b9ed1d26e3",
+      "size": 1130289,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/146d495b64ed44c8068dd47e4c2ca5b9ed1d26e3"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Yunjin.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "feea359f85dee2fe4555905816bde4b46fb0b7c3",
+      "size": 532965,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/feea359f85dee2fe4555905816bde4b46fb0b7c3"
+    },
+    {
+      "path": "resources/splash/UI_Gacha_AvatarImg_Zhongli.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "81dba5a33e6ecf7b35940d5fe69d8f84f02a2b9f",
+      "size": 1294054,
+      "url": "https://api.github.com/repos/CMHopeSunshine/GenshinWikiMap/git/blobs/81dba5a33e6ecf7b35940d5fe69d8f84f02a2b9f"
+    }
+  ]
+}

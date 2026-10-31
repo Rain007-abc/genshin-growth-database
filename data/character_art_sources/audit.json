@@ -1,0 +1,13 @@
+{
+  "characters": 120,
+  "counts": {
+    "full": 120
+  },
+  "decoded_images": 240,
+  "identity_mismatches": [],
+  "duplicate_groups": [],
+  "missing_assets": [],
+  "original_bytes": 158280718,
+  "local_bytes": 111347742,
+  "saving_percent": 29.65
+}

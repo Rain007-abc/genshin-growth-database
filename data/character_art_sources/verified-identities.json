@@ -1,0 +1,170 @@
+{
+  "10000112": {
+    "id": 10000112,
+    "name": "Escoffier",
+    "slug": "escoffier",
+    "icon": "UI_AvatarIcon_Escoffier",
+    "identity_url": "https://raw.githubusercontent.com/theBowja/genshin-db/49a6544a6c6ae36089cb42fa591fc46f01de8bcf/src/data/English/characters/escoffier.json"
+  },
+  "10000113": {
+    "id": 10000113,
+    "name": "Ifa",
+    "slug": "ifa",
+    "icon": "UI_AvatarIcon_Ifa",
+    "identity_url": "https://raw.githubusercontent.com/theBowja/genshin-db/49a6544a6c6ae36089cb42fa591fc46f01de8bcf/src/data/English/characters/ifa.json"
+  },
+  "10000114": {
+    "id": 10000114,
+    "name": "Skirk",
+    "slug": "skirk",
+    "icon": "UI_AvatarIcon_SkirkNew",
+    "identity_url": "https://raw.githubusercontent.com/theBowja/genshin-db/49a6544a6c6ae36089cb42fa591fc46f01de8bcf/src/data/English/characters/skirk.json"
+  },
+  "10000115": {
+    "id": 10000115,
+    "name": "Dahlia",
+    "slug": "dahlia",
+    "icon": "UI_AvatarIcon_Dahlia",
+    "identity_url": "https://raw.githubusercontent.com/theBowja/genshin-db/49a6544a6c6ae36089cb42fa591fc46f01de8bcf/src/data/English/characters/dahlia.json"
+  },
+  "10000116": {
+    "id": 10000116,
+    "name": "Ineffa",
+    "slug": "ineffa",
+    "icon": "UI_AvatarIcon_Ineffa",
+    "identity_url": "https://raw.githubusercontent.com/theBowja/genshin-db/49a6544a6c6ae36089cb42fa591fc46f01de8bcf/src/data/English/characters/ineffa.json"
+  },
+  "10000119": {
+    "id": 10000119,
+    "name": "Lauma",
+    "slug": "lauma",
+    "icon": "UI_AvatarIcon_Lauma",
+    "identity_url": "https://raw.githubusercontent.com/theBowja/genshin-db/49a6544a6c6ae36089cb42fa591fc46f01de8bcf/src/data/English/characters/lauma.json"
+  },
+  "10000120": {
+    "id": 10000120,
+    "name": "Flins",
+    "slug": "flins",
+    "icon": "UI_AvatarIcon_Flins",
+    "identity_url": "https://raw.githubusercontent.com/theBowja/genshin-db/49a6544a6c6ae36089cb42fa591fc46f01de8bcf/src/data/English/characters/flins.json"
+  },
+  "10000121": {
+    "id": 10000121,
+    "name": "Aino",
+    "slug": "aino",
+    "icon": "UI_AvatarIcon_Aino",
+    "identity_url": "https://raw.githubusercontent.com/theBowja/genshin-db/49a6544a6c6ae36089cb42fa591fc46f01de8bcf/src/data/English/characters/aino.json"
+  },
+  "10000122": {
+    "id": 10000122,
+    "name": "Nefer",
+    "slug": "nefer",
+    "icon": "UI_AvatarIcon_Nefer",
+    "identity_url": "https://raw.githubusercontent.com/theBowja/genshin-db/49a6544a6c6ae36089cb42fa591fc46f01de8bcf/src/data/English/characters/nefer.json"
+  },
+  "10000123": {
+    "id": 10000123,
+    "name": "Durin",
+    "slug": "durin",
+    "icon": "UI_AvatarIcon_Durin",
+    "identity_url": "https://raw.githubusercontent.com/theBowja/genshin-db/49a6544a6c6ae36089cb42fa591fc46f01de8bcf/src/data/English/characters/durin.json"
+  },
+  "10000124": {
+    "id": 10000124,
+    "name": "Jahoda",
+    "slug": "jahoda",
+    "icon": "UI_AvatarIcon_Jahoda",
+    "identity_url": "https://raw.githubusercontent.com/theBowja/genshin-db/49a6544a6c6ae36089cb42fa591fc46f01de8bcf/src/data/English/characters/jahoda.json"
+  },
+  "10000125": {
+    "id": 10000125,
+    "name": "Columbina",
+    "slug": "columbina",
+    "icon": "UI_AvatarIcon_Columbina",
+    "identity_url": "https://raw.githubusercontent.com/theBowja/genshin-db/49a6544a6c6ae36089cb42fa591fc46f01de8bcf/src/data/English/characters/columbina.json"
+  },
+  "10000126": {
+    "id": 10000126,
+    "name": "Zibai",
+    "slug": "zibai",
+    "icon": "UI_AvatarIcon_Zibai",
+    "identity_url": "https://raw.githubusercontent.com/theBowja/genshin-db/49a6544a6c6ae36089cb42fa591fc46f01de8bcf/src/data/English/characters/zibai.json"
+  },
+  "10000127": {
+    "id": 10000127,
+    "name": "Illuga",
+    "slug": "illuga",
+    "icon": "UI_AvatarIcon_Illuga",
+    "identity_url": "https://raw.githubusercontent.com/theBowja/genshin-db/49a6544a6c6ae36089cb42fa591fc46f01de8bcf/src/data/English/characters/illuga.json"
+  },
+  "10000128": {
+    "id": 10000128,
+    "name": "Varka",
+    "slug": "varka",
+    "icon": "UI_AvatarIcon_Varka",
+    "identity_url": "https://raw.githubusercontent.com/theBowja/genshin-db/49a6544a6c6ae36089cb42fa591fc46f01de8bcf/src/data/English/characters/varka.json"
+  },
+  "10000129": {
+    "id": 10000129,
+    "name": "Lohen",
+    "slug": "lohen",
+    "icon": "UI_AvatarIcon_Lohen",
+    "identity_url": "https://raw.githubusercontent.com/theBowja/genshin-db/49a6544a6c6ae36089cb42fa591fc46f01de8bcf/src/data/English/characters/lohen.json"
+  },
+  "10000130": {
+    "id": 10000130,
+    "name": "Linnea",
+    "slug": "linnea",
+    "icon": "UI_AvatarIcon_Linnea",
+    "identity_url": "https://raw.githubusercontent.com/theBowja/genshin-db/49a6544a6c6ae36089cb42fa591fc46f01de8bcf/src/data/English/characters/linnea.json"
+  },
+  "10000131": {
+    "id": 10000131,
+    "name": "Nicole",
+    "slug": "nicole",
+    "icon": "UI_AvatarIcon_Nicole",
+    "identity_url": "https://raw.githubusercontent.com/theBowja/genshin-db/49a6544a6c6ae36089cb42fa591fc46f01de8bcf/src/data/English/characters/nicole.json"
+  },
+  "10000132": {
+    "id": 10000132,
+    "name": "Prune",
+    "slug": "prune",
+    "icon": "UI_AvatarIcon_Prune",
+    "identity_url": "https://raw.githubusercontent.com/theBowja/genshin-db/49a6544a6c6ae36089cb42fa591fc46f01de8bcf/src/data/English/characters/prune.json"
+  },
+  "10000133": {
+    "id": 10000133,
+    "name": "Sandrone",
+    "slug": "sandrone",
+    "icon": "UI_AvatarIcon_MarionetteNew",
+    "identity_url": "https://raw.githubusercontent.com/theBowja/genshin-db/49a6544a6c6ae36089cb42fa591fc46f01de8bcf/src/data/English/characters/sandrone.json"
+  },
+  "10000140": {
+    "id": 10000140,
+    "name": "Vodyanitsa",
+    "slug": "vodyanitsa",
+    "icon": "UI_AvatarIcon_Vodyanitsa",
+    "identity_url": "https://raw.githubusercontent.com/theBowja/genshin-db/49a6544a6c6ae36089cb42fa591fc46f01de8bcf/src/data/English/characters/vodyanitsa.json"
+  },
+  "10000143": {
+    "id": 10000143,
+    "name": "Vesna",
+    "slug": "vesna",
+    "icon": "UI_AvatarIcon_Vesna",
+    "identity_url": "https://raw.githubusercontent.com/theBowja/genshin-db/49a6544a6c6ae36089cb42fa591fc46f01de8bcf/src/data/English/characters/vesna.json"
+  },
+  "10000148": {
+    "id": 10000148,
+    "name": "Alyosha",
+    "slug": "alyosha",
+    "icon": "UI_AvatarIcon_Alyosha",
+    "identity_url": "https://raw.githubusercontent.com/theBowja/genshin-db/49a6544a6c6ae36089cb42fa591fc46f01de8bcf/src/data/English/characters/alyosha.json"
+  },
+  "10000150": {
+    "id": 10000150,
+    "name": "Odette",
+    "slug": "odette",
+    "icon": "UI_AvatarIcon_Odette",
+    "identity_url": "https://raw.githubusercontent.com/theBowja/genshin-db/49a6544a6c6ae36089cb42fa591fc46f01de8bcf/src/data/English/characters/odette.json"
+  }
+}

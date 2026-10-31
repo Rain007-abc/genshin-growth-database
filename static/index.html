@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>提瓦特养成计划 · 数据库演示</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <div class="ambient ambient-one"></div><div class="ambient ambient-two"></div>
+  <header class="topbar">
+    <div class="brand"><div class="sigil">✦</div><div><strong>提瓦特养成计划</strong><small>GENSHIN GROWTH DATABASE</small></div></div>
+    <div class="topright"><span class="live-dot"></span><span>SQLite · 离线可用</span><span class="top-version" id="version">DATA —</span></div>
+  </header>
+  <div class="layout">
+    <aside class="sidebar panel">
+      <div class="aside-head"><span class="eyebrow">CHARACTER ARCHIVE</span><h2>角色档案</h2><p>查找角色，生成专属材料计划</p></div>
+      <div class="search-wrap"><span>⌕</span><input id="search" type="search" placeholder="搜索中文 / 英文名称" aria-label="搜索角色"></div>
+      <div class="filters" id="filters"></div>
+      <div class="character-list" id="characters"><p class="loading">正在读取数据库...</p></div>
+      <div class="aside-footer"><span>✧</span><span id="characterCount">数据加载中</span></div>
+    </aside>
+    <main>
+      <section class="hero panel">
+        <div class="hero-copy"><span class="eyebrow">CHARACTER DEVELOPMENT / 角色养成</span>
+          <h1 id="heroName">选择一个角色</h1><p id="heroEnglish">Character detail</p>
+          <div id="heroTags" class="hero-tags"></div>
+          <p class="hero-explain">从突破阶段到三项战斗天赋，一次算清材料需求、背包库存和还需收集的数量。</p>
+        </div>
+        <figure class="character-art" id="characterArt">
+          <div class="art-halo" aria-hidden="true"></div>
+          <img id="heroArt" src="/images/characters/placeholder.svg" alt="角色立绘占位图" decoding="async" width="640" height="360">
+          <figcaption id="artStatus" role="status" aria-live="polite">选择角色查看立绘</figcaption>
+        </figure>
+      </section>
+      <div class="metrics">
+        <div class="metric panel"><span>收录角色</span><strong id="statChars">—</strong><small>标准养成模板</small></div>
+        <div class="metric panel"><span>材料种类</span><strong id="statMats">—</strong><small>关联材料数据</small></div>
+        <div class="metric panel"><span>本次材料项</span><strong id="statItems">—</strong><small>按目标自动汇总</small></div>
+        <div class="metric panel attention"><span>仍需收集</span><strong id="statMissing">—</strong><small>考虑背包库存</small></div>
+      </div>
+      <section class="planner panel">
+        <div class="section-heading"><div><span class="eyebrow">BUILD YOUR PLAN</span><h2>设置养成目标</h2></div><span class="section-number">01 / 02</span></div>
+        <div class="planner-grid">
+          <div class="field-group">
+            <label>角色突破阶段 <span class="hint">0 至 6 阶</span></label>
+            <div class="dual-select"><div><small>当前</small><select id="from_phase"></select></div><span class="arrow">→</span><div><small>目标</small><select id="to_phase"></select></div></div>
+            <p class="field-note">计算从当前阶段突破到目标阶段需要的材料；不包含经验书。</p>
+          </div>
+          <div class="talent-block"><label>天赋等级 <span class="hint">1 至 10 级</span></label><div class="talent-grid" id="talentControls"></div></div>
+        </div>
+        <div class="actions"><button class="primary" id="calculate">✧ 生成养成材料计划</button><button class="secondary" id="resetSelection">重置目标</button></div>
+      </section>
+      <section class="results panel">
+        <div class="section-heading"><div><span class="eyebrow">MATERIAL CHECKLIST</span><h2>材料缺口清单</h2></div><span class="section-number">02 / 02</span></div>
+        <div id="warnings"></div>
+        <div class="table-head"><span>材料与获取方向</span><span>总需求</span><span>背包已有 <em>可编辑</em></span><span>仍缺</span></div>
+        <div id="materialList"><p class="loading">请选择角色并生成计划。</p></div>
+        <div class="result-footer"><span>✦ 修改“背包已有”后自动重新计算。所有数据保存在本机 SQLite 数据库。</span></div>
+      </section>
+      <section class="bottom-notes">
+        <div class="info-panel"><strong>使用说明</strong><p>本项目用于数据库课程演示：真实的角色与材料关联数据、主键/外键、SQL 关联查询、材料汇总及库存更新。仅是学习原型，不涉及游戏账号。</p></div>
+        <div class="info-panel"><strong>数据说明</strong><p>基于开源 genshin-db 的中英文字段和角色成本表；不包含武器、圣遗物、角色经验书及掉率优化。部分特殊角色不适用统一模板。</p></div>
+      </section>
+      <footer>UNOFFICIAL FAN-MADE STUDENT PROJECT · 原神与相关名称归其权利人所有 · 数据源 theBowja/genshin-db</footer>
+    </main>
+  </div>
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  <script src="/app.js" defer></script>
+</body>
+</html>

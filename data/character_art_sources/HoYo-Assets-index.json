@@ -1,0 +1,2404 @@
+{
+  "repository": "ScobbleQ/HoYo-Assets",
+  "revision": "9324d91d6bd5719223efed4236638cd9b75ca1f8",
+  "truncated": false,
+  "files": [
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6d116f911decbde710df2dded52dc6937d15882a",
+      "size": 1100,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/6d116f911decbde710df2dded52dc6937d15882a"
+    },
+    {
+      "path": "genshin/icon",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "2a5ff57a44d45bc6e2bcfde694645114e43d2bcc",
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/trees/2a5ff57a44d45bc6e2bcfde694645114e43d2bcc"
+    },
+    {
+      "path": "genshin/icon/10000002.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8c430b760665a6985d87f57a28fb4c164072997f",
+      "size": 65856,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/8c430b760665a6985d87f57a28fb4c164072997f"
+    },
+    {
+      "path": "genshin/icon/10000003.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2a7db51f34c1af0bd52088c5562284fb7d0d857e",
+      "size": 69818,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/2a7db51f34c1af0bd52088c5562284fb7d0d857e"
+    },
+    {
+      "path": "genshin/icon/10000005.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9c05425bfdef1f5e3ed9945421e48d85f14764a0",
+      "size": 20301,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/9c05425bfdef1f5e3ed9945421e48d85f14764a0"
+    },
+    {
+      "path": "genshin/icon/10000006.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a204677eac0257955c5cba07fd74720384fe3498",
+      "size": 27477,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/a204677eac0257955c5cba07fd74720384fe3498"
+    },
+    {
+      "path": "genshin/icon/10000007.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e48ba1ec9a34dae3536135e4e2609e6bb50ef09c",
+      "size": 21569,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/e48ba1ec9a34dae3536135e4e2609e6bb50ef09c"
+    },
+    {
+      "path": "genshin/icon/10000014.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "40014f6a968bddfcaba435f53f3af1c3a3a8d42e",
+      "size": 94629,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/40014f6a968bddfcaba435f53f3af1c3a3a8d42e"
+    },
+    {
+      "path": "genshin/icon/10000015.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "eb4e7214f16a1df8ec34550e0a522a9ded3205e9",
+      "size": 21916,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/eb4e7214f16a1df8ec34550e0a522a9ded3205e9"
+    },
+    {
+      "path": "genshin/icon/10000016.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dad4e6679f104940597b3acfb16f85ee6ffb1be7",
+      "size": 87707,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/dad4e6679f104940597b3acfb16f85ee6ffb1be7"
+    },
+    {
+      "path": "genshin/icon/10000020.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6fc40262351eb2201c16aa56993af1e7a81bb6a7",
+      "size": 75749,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/6fc40262351eb2201c16aa56993af1e7a81bb6a7"
+    },
+    {
+      "path": "genshin/icon/10000021.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "816cb658451367990914ee73161437073cbf6003",
+      "size": 70922,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/816cb658451367990914ee73161437073cbf6003"
+    },
+    {
+      "path": "genshin/icon/10000022.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "21c08be8d675c2eb5c14d08a24228ee1bf708d93",
+      "size": 23127,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/21c08be8d675c2eb5c14d08a24228ee1bf708d93"
+    },
+    {
+      "path": "genshin/icon/10000023.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9be00094a5589a3ad3df181fc20045708038a179",
+      "size": 66958,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/9be00094a5589a3ad3df181fc20045708038a179"
+    },
+    {
+      "path": "genshin/icon/10000024.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a77b9515d684e6495f9ddb8826e3c082a06fdf25",
+      "size": 25643,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/a77b9515d684e6495f9ddb8826e3c082a06fdf25"
+    },
+    {
+      "path": "genshin/icon/10000025.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "09db2559bdbb927e8a4df00e645721571c1d158b",
+      "size": 18028,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/09db2559bdbb927e8a4df00e645721571c1d158b"
+    },
+    {
+      "path": "genshin/icon/10000026.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e14b29b0a142e44f181e4b2319fe194a71eb386e",
+      "size": 24546,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/e14b29b0a142e44f181e4b2319fe194a71eb386e"
+    },
+    {
+      "path": "genshin/icon/10000027.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ab7e395c496d1e56d4b18e993195a9d6c48ad3bb",
+      "size": 89252,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/ab7e395c496d1e56d4b18e993195a9d6c48ad3bb"
+    },
+    {
+      "path": "genshin/icon/10000029.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9085c49fbe332ae9e16c493de3ba7abd47a2ba2a",
+      "size": 92371,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/9085c49fbe332ae9e16c493de3ba7abd47a2ba2a"
+    },
+    {
+      "path": "genshin/icon/10000030.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a7f2becddd477b3abe91eaf08179fd64e092e13f",
+      "size": 18433,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/a7f2becddd477b3abe91eaf08179fd64e092e13f"
+    },
+    {
+      "path": "genshin/icon/10000031.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "07306768f26cdbafa3f753fbc28ef8bdf1f76094",
+      "size": 24367,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/07306768f26cdbafa3f753fbc28ef8bdf1f76094"
+    },
+    {
+      "path": "genshin/icon/10000032.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "994c5f25bad8c9a79cc72067bef0db897c4caa02",
+      "size": 77514,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/994c5f25bad8c9a79cc72067bef0db897c4caa02"
+    },
+    {
+      "path": "genshin/icon/10000033.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c90446d1ae949554ec414b3382948c8fee8801b7",
+      "size": 92594,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/c90446d1ae949554ec414b3382948c8fee8801b7"
+    },
+    {
+      "path": "genshin/icon/10000034.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e64ac67e186b7d0705ba759964191193f1067363",
+      "size": 96679,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/e64ac67e186b7d0705ba759964191193f1067363"
+    },
+    {
+      "path": "genshin/icon/10000035.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "57d3c9bfec382c3935163d167b8fec6e8ca3c28c",
+      "size": 82135,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/57d3c9bfec382c3935163d167b8fec6e8ca3c28c"
+    },
+    {
+      "path": "genshin/icon/10000036.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0cc8e63db63b5ab6d49f942e4fe2ed096948bfad",
+      "size": 72108,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/0cc8e63db63b5ab6d49f942e4fe2ed096948bfad"
+    },
+    {
+      "path": "genshin/icon/10000037.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "65c5dfefa14973925017a90323d5445f47d960ed",
+      "size": 86394,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/65c5dfefa14973925017a90323d5445f47d960ed"
+    },
+    {
+      "path": "genshin/icon/10000038.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "72318931c75c465ca0c57c3dd4d145aed6ea75cb",
+      "size": 26090,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/72318931c75c465ca0c57c3dd4d145aed6ea75cb"
+    },
+    {
+      "path": "genshin/icon/10000039.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "42374c866cd6979a6376a6e2faaecc6b9ba45a53",
+      "size": 82039,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/42374c866cd6979a6376a6e2faaecc6b9ba45a53"
+    },
+    {
+      "path": "genshin/icon/10000041.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "787340ef3dc17475c40ad34d4e08c0f6aec0a1f3",
+      "size": 113488,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/787340ef3dc17475c40ad34d4e08c0f6aec0a1f3"
+    },
+    {
+      "path": "genshin/icon/10000042.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "43c8402fdea675ac8bde5153e7004c21a5474458",
+      "size": 90549,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/43c8402fdea675ac8bde5153e7004c21a5474458"
+    },
+    {
+      "path": "genshin/icon/10000043.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "df05f2b92a2fa527f7e86198cbcb7d6468dd7861",
+      "size": 94407,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/df05f2b92a2fa527f7e86198cbcb7d6468dd7861"
+    },
+    {
+      "path": "genshin/icon/10000044.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8925946e8eb759255d3612423ccde7cb328e59c9",
+      "size": 27039,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/8925946e8eb759255d3612423ccde7cb328e59c9"
+    },
+    {
+      "path": "genshin/icon/10000045.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a2fcec9ba18d76814633c6a8de2d49b1e22d2964",
+      "size": 21085,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/a2fcec9ba18d76814633c6a8de2d49b1e22d2964"
+    },
+    {
+      "path": "genshin/icon/10000046.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7bc0f24b80891b25959b618ac44b8c945acb3894",
+      "size": 86441,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/7bc0f24b80891b25959b618ac44b8c945acb3894"
+    },
+    {
+      "path": "genshin/icon/10000047.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8a8e342407759b079a4209b08976ec55231082fa",
+      "size": 80887,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/8a8e342407759b079a4209b08976ec55231082fa"
+    },
+    {
+      "path": "genshin/icon/10000048.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "13ef09f1b2288ff4139f6fa29cc32b2ffe8846fd",
+      "size": 32719,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/13ef09f1b2288ff4139f6fa29cc32b2ffe8846fd"
+    },
+    {
+      "path": "genshin/icon/10000049.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "59e3b4f24332a50eee902813350d18b8e88b42fe",
+      "size": 91433,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/59e3b4f24332a50eee902813350d18b8e88b42fe"
+    },
+    {
+      "path": "genshin/icon/10000050.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "10fefc880f6230e54aeaf356abbf35ef31ad47bb",
+      "size": 73343,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/10fefc880f6230e54aeaf356abbf35ef31ad47bb"
+    },
+    {
+      "path": "genshin/icon/10000051.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e7a2c1898d1c4926a3c8a3461ad85539e8bcc935",
+      "size": 100653,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/e7a2c1898d1c4926a3c8a3461ad85539e8bcc935"
+    },
+    {
+      "path": "genshin/icon/10000052.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b8d33786cd9f385fe999239a663ed197d56f23c2",
+      "size": 28413,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/b8d33786cd9f385fe999239a663ed197d56f23c2"
+    },
+    {
+      "path": "genshin/icon/10000053.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "46df9d7d70245564a8613210299e0c363942cc36",
+      "size": 24718,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/46df9d7d70245564a8613210299e0c363942cc36"
+    },
+    {
+      "path": "genshin/icon/10000054.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1088864964d8e973f179c5b779fde8320059ae70",
+      "size": 73507,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/1088864964d8e973f179c5b779fde8320059ae70"
+    },
+    {
+      "path": "genshin/icon/10000055.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "20d0bce1760f64f67ca0f6bed4738be030ccb9c4",
+      "size": 27316,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/20d0bce1760f64f67ca0f6bed4738be030ccb9c4"
+    },
+    {
+      "path": "genshin/icon/10000056.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c72ca1c7209c4ad00ee2a851abe4d88d3ba7f74a",
+      "size": 76728,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/c72ca1c7209c4ad00ee2a851abe4d88d3ba7f74a"
+    },
+    {
+      "path": "genshin/icon/10000057.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2f89814f3751469f1f6bc6446c657225067b5571",
+      "size": 102456,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/2f89814f3751469f1f6bc6446c657225067b5571"
+    },
+    {
+      "path": "genshin/icon/10000058.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0c47bb261807b48eba61c9e6e0fff9f4d9a26b95",
+      "size": 28990,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/0c47bb261807b48eba61c9e6e0fff9f4d9a26b95"
+    },
+    {
+      "path": "genshin/icon/10000059.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "30e68f6081754ca19ba708971cf1d368506afb65",
+      "size": 77034,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/30e68f6081754ca19ba708971cf1d368506afb65"
+    },
+    {
+      "path": "genshin/icon/10000060.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "00b828c13f1fee0ee85ce4e6d29f3cfe561c6f33",
+      "size": 20076,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/00b828c13f1fee0ee85ce4e6d29f3cfe561c6f33"
+    },
+    {
+      "path": "genshin/icon/10000061.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "86fd86f323f1cb5cf6633e41dc127f68cda79631",
+      "size": 95977,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/86fd86f323f1cb5cf6633e41dc127f68cda79631"
+    },
+    {
+      "path": "genshin/icon/10000062.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4a35130341054652bda40bcf9d3bdebdcc3b28e9",
+      "size": 25638,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/4a35130341054652bda40bcf9d3bdebdcc3b28e9"
+    },
+    {
+      "path": "genshin/icon/10000063.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2c164f474cb063481f7bca31aed89c175810a79f",
+      "size": 82417,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/2c164f474cb063481f7bca31aed89c175810a79f"
+    },
+    {
+      "path": "genshin/icon/10000064.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "96b8a86bf3e1926aa9b35eaae3f6619df3df526e",
+      "size": 78788,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/96b8a86bf3e1926aa9b35eaae3f6619df3df526e"
+    },
+    {
+      "path": "genshin/icon/10000065.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "386f92b55820978e44dfbd14f371a43f6296765b",
+      "size": 101317,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/386f92b55820978e44dfbd14f371a43f6296765b"
+    },
+    {
+      "path": "genshin/icon/10000066.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7b20cf4167f140c7ef55ba00217a4aac4a03ef16",
+      "size": 88182,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/7b20cf4167f140c7ef55ba00217a4aac4a03ef16"
+    },
+    {
+      "path": "genshin/icon/10000067.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8fcc4d7541ccaa4ac151c15329debb3966d8f9ae",
+      "size": 87029,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/8fcc4d7541ccaa4ac151c15329debb3966d8f9ae"
+    },
+    {
+      "path": "genshin/icon/10000068.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3cc38a9e212d01405750d0288d66a552bc090b86",
+      "size": 91117,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/3cc38a9e212d01405750d0288d66a552bc090b86"
+    },
+    {
+      "path": "genshin/icon/10000069.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "257391148ebc2074c773ed43df3b6af4e543085b",
+      "size": 84151,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/257391148ebc2074c773ed43df3b6af4e543085b"
+    },
+    {
+      "path": "genshin/icon/10000070.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fe33518781a67c41f911e3c42209f6ce8f8dff2b",
+      "size": 94703,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/fe33518781a67c41f911e3c42209f6ce8f8dff2b"
+    },
+    {
+      "path": "genshin/icon/10000071.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0a11c005d56a85b1e028c05e6914bcbb18fbb9a5",
+      "size": 83678,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/0a11c005d56a85b1e028c05e6914bcbb18fbb9a5"
+    },
+    {
+      "path": "genshin/icon/10000072.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7973be3ec465bce90b3288abba262de0e20bd774",
+      "size": 86986,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/7973be3ec465bce90b3288abba262de0e20bd774"
+    },
+    {
+      "path": "genshin/icon/10000073.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "96487639fc775f432eca224ee14265f4e5a92d32",
+      "size": 109680,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/96487639fc775f432eca224ee14265f4e5a92d32"
+    },
+    {
+      "path": "genshin/icon/10000074.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9b5057045d1d4ffc1a5707f2069354ff592ddd6d",
+      "size": 84806,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/9b5057045d1d4ffc1a5707f2069354ff592ddd6d"
+    },
+    {
+      "path": "genshin/icon/10000075.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9626d71f7328c90dab89fbb7646945eec5dee64a",
+      "size": 85308,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/9626d71f7328c90dab89fbb7646945eec5dee64a"
+    },
+    {
+      "path": "genshin/icon/10000076.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "66f0691028a1a3b135a3a9dcad4bc1bb8646d904",
+      "size": 96162,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/66f0691028a1a3b135a3a9dcad4bc1bb8646d904"
+    },
+    {
+      "path": "genshin/icon/10000077.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ceb667b1b289bfd6fe3dda97300a5c936f2923c7",
+      "size": 89395,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/ceb667b1b289bfd6fe3dda97300a5c936f2923c7"
+    },
+    {
+      "path": "genshin/icon/10000078.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ffffe7c0e981eccab33139a9260f22d5ed2040af",
+      "size": 91364,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/ffffe7c0e981eccab33139a9260f22d5ed2040af"
+    },
+    {
+      "path": "genshin/icon/10000079.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2cf81eb121f198c259f9a38ddac1bbe98c797ba5",
+      "size": 25712,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/2cf81eb121f198c259f9a38ddac1bbe98c797ba5"
+    },
+    {
+      "path": "genshin/icon/10000080.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f112521f1778ce996650637642a2bcd3cf9771b2",
+      "size": 24849,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/f112521f1778ce996650637642a2bcd3cf9771b2"
+    },
+    {
+      "path": "genshin/icon/10000081.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "be4bd628352c6e06b53a700e48bf142159a42b51",
+      "size": 91982,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/be4bd628352c6e06b53a700e48bf142159a42b51"
+    },
+    {
+      "path": "genshin/icon/10000082.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "62394321e9dee7c6f204c514c0b39205588ea7f1",
+      "size": 27536,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/62394321e9dee7c6f204c514c0b39205588ea7f1"
+    },
+    {
+      "path": "genshin/icon/10000083.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e316abd719a06b6472b318d1f058909d6c48b83b",
+      "size": 83209,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/e316abd719a06b6472b318d1f058909d6c48b83b"
+    },
+    {
+      "path": "genshin/icon/10000084.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "631621e4b025f49f4869f00901fa10a60586cba6",
+      "size": 75808,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/631621e4b025f49f4869f00901fa10a60586cba6"
+    },
+    {
+      "path": "genshin/icon/10000085.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6893c1eb6991b466d823245ef1aaa55ff4fdb982",
+      "size": 82619,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/6893c1eb6991b466d823245ef1aaa55ff4fdb982"
+    },
+    {
+      "path": "genshin/icon/10000086.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a71c3bf4612c8e878d42cd16d4975200c9913ff5",
+      "size": 88371,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/a71c3bf4612c8e878d42cd16d4975200c9913ff5"
+    },
+    {
+      "path": "genshin/icon/10000087.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e0788a524fcde999437bb3dccf04b744710326a1",
+      "size": 91820,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/e0788a524fcde999437bb3dccf04b744710326a1"
+    },
+    {
+      "path": "genshin/icon/10000088.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6c6e77d18085855f1381ce6c9572dd4a7d0bb134",
+      "size": 25148,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/6c6e77d18085855f1381ce6c9572dd4a7d0bb134"
+    },
+    {
+      "path": "genshin/icon/10000089.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e581ccf8277cbee010fb63c777ede908ad821c1d",
+      "size": 99028,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/e581ccf8277cbee010fb63c777ede908ad821c1d"
+    },
+    {
+      "path": "genshin/icon/10000090.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e84ed1aaadb41dec9836203c788e5b80f7dc21cd",
+      "size": 97686,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/e84ed1aaadb41dec9836203c788e5b80f7dc21cd"
+    },
+    {
+      "path": "genshin/icon/10000091.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "15b50af6a2a71eefa36b96373f6d9625fcc7cbcb",
+      "size": 113415,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/15b50af6a2a71eefa36b96373f6d9625fcc7cbcb"
+    },
+    {
+      "path": "genshin/icon/10000092.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ab71e926ed76a6b5bb11852047cc14805ce5c992",
+      "size": 82097,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/ab71e926ed76a6b5bb11852047cc14805ce5c992"
+    },
+    {
+      "path": "genshin/icon/10000093.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b7685e7ccd7c9de28cc149a0c45c324acb85e055",
+      "size": 86378,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/b7685e7ccd7c9de28cc149a0c45c324acb85e055"
+    },
+    {
+      "path": "genshin/icon/10000094.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "20f10c7e3786ca463f108d458daf1c8a26f1cb1d",
+      "size": 86112,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/20f10c7e3786ca463f108d458daf1c8a26f1cb1d"
+    },
+    {
+      "path": "genshin/icon/10000095.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c33469b08b42a87ee376646ba68346eead6574a9",
+      "size": 29999,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/c33469b08b42a87ee376646ba68346eead6574a9"
+    },
+    {
+      "path": "genshin/icon/10000096.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "34a2aac03417f3713095b52663d8634c77677bc7",
+      "size": 84112,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/34a2aac03417f3713095b52663d8634c77677bc7"
+    },
+    {
+      "path": "genshin/icon/10000097.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ab1ab66edbd8cc89d920dbe4118175ea04b08299",
+      "size": 87688,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/ab1ab66edbd8cc89d920dbe4118175ea04b08299"
+    },
+    {
+      "path": "genshin/icon/10000098.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d8358eb374cc44ae989973e8cd179780f0d8d636",
+      "size": 93085,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/d8358eb374cc44ae989973e8cd179780f0d8d636"
+    },
+    {
+      "path": "genshin/icon/10000099.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fd5080c069a6b7b4afe0a3a38d0fc231c640a77c",
+      "size": 102842,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/fd5080c069a6b7b4afe0a3a38d0fc231c640a77c"
+    },
+    {
+      "path": "genshin/icon/10000100.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "482f18f898b92a88a704cc60c9c7d20d18b62afb",
+      "size": 27898,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/482f18f898b92a88a704cc60c9c7d20d18b62afb"
+    },
+    {
+      "path": "genshin/icon/10000101.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b74b07e609f6f0249a983a099e20b9a65e218f0b",
+      "size": 79492,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/b74b07e609f6f0249a983a099e20b9a65e218f0b"
+    },
+    {
+      "path": "genshin/icon/10000102.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4e92a3216b7a7219e0806131e43d2ef22decb3ef",
+      "size": 79205,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/4e92a3216b7a7219e0806131e43d2ef22decb3ef"
+    },
+    {
+      "path": "genshin/icon/10000103.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "104ceacb6ef2ce2c27ce166f567e21aab16d5528",
+      "size": 107032,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/104ceacb6ef2ce2c27ce166f567e21aab16d5528"
+    },
+    {
+      "path": "genshin/icon/10000104.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "961658084ffd2a456c286acb5998735d392ed75a",
+      "size": 115161,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/961658084ffd2a456c286acb5998735d392ed75a"
+    },
+    {
+      "path": "genshin/icon/10000105.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9fa07eb59c0dfefafd23f580a8fe68232c850586",
+      "size": 109083,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/9fa07eb59c0dfefafd23f580a8fe68232c850586"
+    },
+    {
+      "path": "genshin/icon/10000106.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a9433102a2ed292f648340e97a9e8da6a1c54c60",
+      "size": 101878,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/a9433102a2ed292f648340e97a9e8da6a1c54c60"
+    },
+    {
+      "path": "genshin/icon/10000107.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8e563737347d668a2a26df94670c56ecda492b16",
+      "size": 97402,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/8e563737347d668a2a26df94670c56ecda492b16"
+    },
+    {
+      "path": "genshin/icon/10000108.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "10390323b759ae184140176a4cebf0000b79de98",
+      "size": 89019,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/10390323b759ae184140176a4cebf0000b79de98"
+    },
+    {
+      "path": "genshin/icon/10000109.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e0d45bf25b8b7c01a2ff8fad631b50b137c4e900",
+      "size": 106755,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/e0d45bf25b8b7c01a2ff8fad631b50b137c4e900"
+    },
+    {
+      "path": "genshin/icon/10000110.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c3dad60f541f95e57b0ecc568d2848c8e1b6b7b4",
+      "size": 23842,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/c3dad60f541f95e57b0ecc568d2848c8e1b6b7b4"
+    },
+    {
+      "path": "genshin/icon/10000111.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b704ef741c991d30a3368351faad3a0c0cbcbd3f",
+      "size": 35344,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/b704ef741c991d30a3368351faad3a0c0cbcbd3f"
+    },
+    {
+      "path": "genshin/splash",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "9c969a21a51d2cd96f11325f0d7e263432bea1f2",
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/trees/9c969a21a51d2cd96f11325f0d7e263432bea1f2"
+    },
+    {
+      "path": "genshin/splash/10000002.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "30028086571c464d8662fde9945be557ec7135f2",
+      "size": 1886839,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/30028086571c464d8662fde9945be557ec7135f2"
+    },
+    {
+      "path": "genshin/splash/10000003.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "29749971423489c0cf14641f6e6d455062cadb18",
+      "size": 1111302,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/29749971423489c0cf14641f6e6d455062cadb18"
+    },
+    {
+      "path": "genshin/splash/10000005.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "976455b24b29ca6b9fcc720c75e46efafbc66df9",
+      "size": 606070,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/976455b24b29ca6b9fcc720c75e46efafbc66df9"
+    },
+    {
+      "path": "genshin/splash/10000006.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6bd67c623df545e0639e1133a40b37100ce34459",
+      "size": 547993,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/6bd67c623df545e0639e1133a40b37100ce34459"
+    },
+    {
+      "path": "genshin/splash/10000007.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1b763e5279240c6950367c3d1947fdd0045c313f",
+      "size": 567969,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/1b763e5279240c6950367c3d1947fdd0045c313f"
+    },
+    {
+      "path": "genshin/splash/10000014.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "17e962c39a358228f46eeace6dfedc3e7bd30df3",
+      "size": 767422,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/17e962c39a358228f46eeace6dfedc3e7bd30df3"
+    },
+    {
+      "path": "genshin/splash/10000015.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4ef280c4eb19d3b0165d9634b5766b27235c5054",
+      "size": 659378,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/4ef280c4eb19d3b0165d9634b5766b27235c5054"
+    },
+    {
+      "path": "genshin/splash/10000016.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b9801a155da33f8906fe34165e74c4e7c85b5f26",
+      "size": 1641017,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/b9801a155da33f8906fe34165e74c4e7c85b5f26"
+    },
+    {
+      "path": "genshin/splash/10000020.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2f8baa4a9d5943e3b409f22f970b806beec5bb7f",
+      "size": 1042579,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/2f8baa4a9d5943e3b409f22f970b806beec5bb7f"
+    },
+    {
+      "path": "genshin/splash/10000021.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "80e74bf9d465821650148b56119100fceb81659f",
+      "size": 682487,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/80e74bf9d465821650148b56119100fceb81659f"
+    },
+    {
+      "path": "genshin/splash/10000022.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cec4910c185b938e5e0694153b00fce525272dfd",
+      "size": 1094846,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/cec4910c185b938e5e0694153b00fce525272dfd"
+    },
+    {
+      "path": "genshin/splash/10000023.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "72ac233e0507e16cc0249a77640a23493fdb554a",
+      "size": 659335,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/72ac233e0507e16cc0249a77640a23493fdb554a"
+    },
+    {
+      "path": "genshin/splash/10000024.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5ab5f0155a748eb360fe45a825816864e1260eeb",
+      "size": 1193521,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/5ab5f0155a748eb360fe45a825816864e1260eeb"
+    },
+    {
+      "path": "genshin/splash/10000025.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0b36ff6ca775ec4ec118c14bb582ef4b8ab40391",
+      "size": 623771,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/0b36ff6ca775ec4ec118c14bb582ef4b8ab40391"
+    },
+    {
+      "path": "genshin/splash/10000026.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "303394fbdf9d7990cc51efc86128168461258f8e",
+      "size": 1223274,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/303394fbdf9d7990cc51efc86128168461258f8e"
+    },
+    {
+      "path": "genshin/splash/10000027.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "eac8c4787e5b29407f2625f6427b79c01ed289dc",
+      "size": 979914,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/eac8c4787e5b29407f2625f6427b79c01ed289dc"
+    },
+    {
+      "path": "genshin/splash/10000029.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1f7e94dc94d7131586e354a1b9ed16bd58983616",
+      "size": 577307,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/1f7e94dc94d7131586e354a1b9ed16bd58983616"
+    },
+    {
+      "path": "genshin/splash/10000030.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d3ba63648ccf950bddccb15b462188442d2433a1",
+      "size": 1316384,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/d3ba63648ccf950bddccb15b462188442d2433a1"
+    },
+    {
+      "path": "genshin/splash/10000031.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5071bcf9cc924895b6b3404f469a80bcbdb7f0ec",
+      "size": 825356,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/5071bcf9cc924895b6b3404f469a80bcbdb7f0ec"
+    },
+    {
+      "path": "genshin/splash/10000032.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "94e03bc474b59e433e4990d4f44263f90e9a46e7",
+      "size": 941429,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/94e03bc474b59e433e4990d4f44263f90e9a46e7"
+    },
+    {
+      "path": "genshin/splash/10000033.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "be11d62ba8c80695a9d0fd9a921a1a4f4c08d88a",
+      "size": 1615720,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/be11d62ba8c80695a9d0fd9a921a1a4f4c08d88a"
+    },
+    {
+      "path": "genshin/splash/10000034.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4576ed8fb4882abd91066c356402a2450a94896e",
+      "size": 712823,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/4576ed8fb4882abd91066c356402a2450a94896e"
+    },
+    {
+      "path": "genshin/splash/10000035.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "60ee44f6fd863d24d4433ed7cf6813ed9bb5900a",
+      "size": 1271340,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/60ee44f6fd863d24d4433ed7cf6813ed9bb5900a"
+    },
+    {
+      "path": "genshin/splash/10000036.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f0689f5d41a36ce0bac9b6ac74a19ee433b247bf",
+      "size": 1031884,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/f0689f5d41a36ce0bac9b6ac74a19ee433b247bf"
+    },
+    {
+      "path": "genshin/splash/10000037.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "24318ad33fbd68cfafbcd1534fdebaf3d3a554cc",
+      "size": 1165261,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/24318ad33fbd68cfafbcd1534fdebaf3d3a554cc"
+    },
+    {
+      "path": "genshin/splash/10000038.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c0142295bb2322ec65b0a7534a8a6b047cd3cb22",
+      "size": 1548662,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/c0142295bb2322ec65b0a7534a8a6b047cd3cb22"
+    },
+    {
+      "path": "genshin/splash/10000039.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "413e99da2042ac48eb574f1f71daa9c0d6829971",
+      "size": 504539,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/413e99da2042ac48eb574f1f71daa9c0d6829971"
+    },
+    {
+      "path": "genshin/splash/10000041.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "36d42e9cbc3fd6d65963f5129491aa53c52ac2b4",
+      "size": 1960220,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/36d42e9cbc3fd6d65963f5129491aa53c52ac2b4"
+    },
+    {
+      "path": "genshin/splash/10000042.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "96e2d0c46d28fbfae3b72071632967aefb6405f7",
+      "size": 1165268,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/96e2d0c46d28fbfae3b72071632967aefb6405f7"
+    },
+    {
+      "path": "genshin/splash/10000043.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e5767cf43b0a6454bbdb500cab9c41f0403ffe74",
+      "size": 795462,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/e5767cf43b0a6454bbdb500cab9c41f0403ffe74"
+    },
+    {
+      "path": "genshin/splash/10000044.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0086f83113f6079a27b74da308288a3946693216",
+      "size": 1557193,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/0086f83113f6079a27b74da308288a3946693216"
+    },
+    {
+      "path": "genshin/splash/10000045.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "29044dce26a9363abfcf7c7f4d1c4540c14e7686",
+      "size": 874702,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/29044dce26a9363abfcf7c7f4d1c4540c14e7686"
+    },
+    {
+      "path": "genshin/splash/10000046.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6c47b1af8c4b383f6088c8cada971b3711fac9db",
+      "size": 1371755,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/6c47b1af8c4b383f6088c8cada971b3711fac9db"
+    },
+    {
+      "path": "genshin/splash/10000047.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "56f91ef538fca4a205faaad4d50d23bfafa36729",
+      "size": 868849,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/56f91ef538fca4a205faaad4d50d23bfafa36729"
+    },
+    {
+      "path": "genshin/splash/10000048.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "641783fbdc363641cce8bdbe056b9a1113bf5468",
+      "size": 932189,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/641783fbdc363641cce8bdbe056b9a1113bf5468"
+    },
+    {
+      "path": "genshin/splash/10000049.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e3040c7076caf5fdad66ac4eda21f5fbc7bbbf47",
+      "size": 1148312,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/e3040c7076caf5fdad66ac4eda21f5fbc7bbbf47"
+    },
+    {
+      "path": "genshin/splash/10000050.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6aacbb2e21279c06736d228fed06a2aab9ed577a",
+      "size": 926834,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/6aacbb2e21279c06736d228fed06a2aab9ed577a"
+    },
+    {
+      "path": "genshin/splash/10000051.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d97eca001411f8b6ad8164bbc19cdf61786b5052",
+      "size": 1233121,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/d97eca001411f8b6ad8164bbc19cdf61786b5052"
+    },
+    {
+      "path": "genshin/splash/10000052.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "712dec9bf88bf7bafffcde95db338e7226d68567",
+      "size": 1285058,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/712dec9bf88bf7bafffcde95db338e7226d68567"
+    },
+    {
+      "path": "genshin/splash/10000053.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6d8ae5be9c2f47d8a535e1d961cff9beaf2ab25e",
+      "size": 714831,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/6d8ae5be9c2f47d8a535e1d961cff9beaf2ab25e"
+    },
+    {
+      "path": "genshin/splash/10000054.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bd66c34dd18dfd507d1ca4cdacaa7a1328f72567",
+      "size": 1101973,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/bd66c34dd18dfd507d1ca4cdacaa7a1328f72567"
+    },
+    {
+      "path": "genshin/splash/10000055.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "097dcfa17905b4169a2cfa56ca9124f73350bd1e",
+      "size": 731895,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/097dcfa17905b4169a2cfa56ca9124f73350bd1e"
+    },
+    {
+      "path": "genshin/splash/10000056.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ae696c6ac08d588791c4f2a20e6ea2062a2fede9",
+      "size": 679194,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/ae696c6ac08d588791c4f2a20e6ea2062a2fede9"
+    },
+    {
+      "path": "genshin/splash/10000057.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5702bf904e193a0c9c013c181be47f5dc121cb7e",
+      "size": 1244190,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/5702bf904e193a0c9c013c181be47f5dc121cb7e"
+    },
+    {
+      "path": "genshin/splash/10000058.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f33df16d862920b1473a9e8eb7324e0c32eec538",
+      "size": 1381510,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/f33df16d862920b1473a9e8eb7324e0c32eec538"
+    },
+    {
+      "path": "genshin/splash/10000059.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3cc17a14febaf1fb0ff088191ef6201e2942b9d7",
+      "size": 787389,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/3cc17a14febaf1fb0ff088191ef6201e2942b9d7"
+    },
+    {
+      "path": "genshin/splash/10000060.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9a34e75cf91f32f0b9d0f4b6b215b55287ea91e6",
+      "size": 1323893,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/9a34e75cf91f32f0b9d0f4b6b215b55287ea91e6"
+    },
+    {
+      "path": "genshin/splash/10000061.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9dad3fb4b0ee1ced22e828508f8e4fd949f15420",
+      "size": 1165879,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/9dad3fb4b0ee1ced22e828508f8e4fd949f15420"
+    },
+    {
+      "path": "genshin/splash/10000062.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f9acd710503953fc214b28b5b99523de8694badd",
+      "size": 893159,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/f9acd710503953fc214b28b5b99523de8694badd"
+    },
+    {
+      "path": "genshin/splash/10000063.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6df2696ffc70936775c00cc60e5aad44b22d1341",
+      "size": 1296250,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/6df2696ffc70936775c00cc60e5aad44b22d1341"
+    },
+    {
+      "path": "genshin/splash/10000064.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "88ef85728a9665797ebd200ee8b0636bae18c78c",
+      "size": 550556,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/88ef85728a9665797ebd200ee8b0636bae18c78c"
+    },
+    {
+      "path": "genshin/splash/10000065.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "62363c6406967a5f72bf9ddf5cc1d71fbca555d4",
+      "size": 568353,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/62363c6406967a5f72bf9ddf5cc1d71fbca555d4"
+    },
+    {
+      "path": "genshin/splash/10000066.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "836b53c949f5d8554ef5adf2dc1b641b247327e2",
+      "size": 1266659,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/836b53c949f5d8554ef5adf2dc1b641b247327e2"
+    },
+    {
+      "path": "genshin/splash/10000067.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3c7123499f67f5a40e55f9585e60838589464368",
+      "size": 926295,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/3c7123499f67f5a40e55f9585e60838589464368"
+    },
+    {
+      "path": "genshin/splash/10000068.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "40baa412acfbeb7ff251630be8376b456ac22f88",
+      "size": 890127,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/40baa412acfbeb7ff251630be8376b456ac22f88"
+    },
+    {
+      "path": "genshin/splash/10000069.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "eb813265ec71e1afa67e9f15dbf94af99a251fd0",
+      "size": 1144888,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/eb813265ec71e1afa67e9f15dbf94af99a251fd0"
+    },
+    {
+      "path": "genshin/splash/10000070.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4301768784b2e5589a15c684cc59f00e6ac83432",
+      "size": 1305494,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/4301768784b2e5589a15c684cc59f00e6ac83432"
+    },
+    {
+      "path": "genshin/splash/10000071.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b6d84d409eef7512594f6c550575731a295b1ea3",
+      "size": 1124541,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/b6d84d409eef7512594f6c550575731a295b1ea3"
+    },
+    {
+      "path": "genshin/splash/10000072.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "482ced69f69f996691a56aea49039c6963a2ac3b",
+      "size": 1101875,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/482ced69f69f996691a56aea49039c6963a2ac3b"
+    },
+    {
+      "path": "genshin/splash/10000073.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "01998160290cc0b2c21987392d88116b29e39fa7",
+      "size": 1850829,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/01998160290cc0b2c21987392d88116b29e39fa7"
+    },
+    {
+      "path": "genshin/splash/10000074.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fdc435b3d80eb2bee36889d1959da9a8348b0226",
+      "size": 1073342,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/fdc435b3d80eb2bee36889d1959da9a8348b0226"
+    },
+    {
+      "path": "genshin/splash/10000075.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1d0dea8aed647441eb7792355704b1ad4d92641c",
+      "size": 1289588,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/1d0dea8aed647441eb7792355704b1ad4d92641c"
+    },
+    {
+      "path": "genshin/splash/10000076.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4eb65519683122b8daaf1c52441bab97f8420dac",
+      "size": 757401,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/4eb65519683122b8daaf1c52441bab97f8420dac"
+    },
+    {
+      "path": "genshin/splash/10000077.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9a0f085819ec655bdfaaebd47dc0c3c26aeabf07",
+      "size": 469417,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/9a0f085819ec655bdfaaebd47dc0c3c26aeabf07"
+    },
+    {
+      "path": "genshin/splash/10000078.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a59db7747778f302ab5112667801f493965ec498",
+      "size": 1404824,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/a59db7747778f302ab5112667801f493965ec498"
+    },
+    {
+      "path": "genshin/splash/10000079.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "699cd37673febb75dd453366055fa485072c3724",
+      "size": 1377266,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/699cd37673febb75dd453366055fa485072c3724"
+    },
+    {
+      "path": "genshin/splash/10000080.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6db1419ba639047bb32bed498b03ffbe8bd9e302",
+      "size": 803484,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/6db1419ba639047bb32bed498b03ffbe8bd9e302"
+    },
+    {
+      "path": "genshin/splash/10000081.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8075014f533e45748cb05a3d980e93fe85147ca0",
+      "size": 1151469,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/8075014f533e45748cb05a3d980e93fe85147ca0"
+    },
+    {
+      "path": "genshin/splash/10000082.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a247f149105caf4164b633cfaea97a9098094e13",
+      "size": 1635619,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/a247f149105caf4164b633cfaea97a9098094e13"
+    },
+    {
+      "path": "genshin/splash/10000083.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "866950a81dc910b13f3ba048330ea28e47f45a82",
+      "size": 742405,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/866950a81dc910b13f3ba048330ea28e47f45a82"
+    },
+    {
+      "path": "genshin/splash/10000084.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b0386169c94dc2a374178e82d25e4418b29a932e",
+      "size": 1695877,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/b0386169c94dc2a374178e82d25e4418b29a932e"
+    },
+    {
+      "path": "genshin/splash/10000085.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "33c74c746814b8a34ed1b4fd726a87820d4ceeed",
+      "size": 1283440,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/33c74c746814b8a34ed1b4fd726a87820d4ceeed"
+    },
+    {
+      "path": "genshin/splash/10000086.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5ef9c61a4304b400896e0aee4f8915190c7afe4a",
+      "size": 2350086,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/5ef9c61a4304b400896e0aee4f8915190c7afe4a"
+    },
+    {
+      "path": "genshin/splash/10000087.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d28c60d5c96567247bcf06369954a8ca05ba8499",
+      "size": 2039652,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/d28c60d5c96567247bcf06369954a8ca05ba8499"
+    },
+    {
+      "path": "genshin/splash/10000088.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8ba5786e49481f6faeb133e5facd748401ea6ff3",
+      "size": 1139974,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/8ba5786e49481f6faeb133e5facd748401ea6ff3"
+    },
+    {
+      "path": "genshin/splash/10000089.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7b8a017df00a99747933ce88f79e152edb2ea9e1",
+      "size": 2249962,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/7b8a017df00a99747933ce88f79e152edb2ea9e1"
+    },
+    {
+      "path": "genshin/splash/10000090.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ea820886baf52aeb718d60579ebd98ef338c8244",
+      "size": 872860,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/ea820886baf52aeb718d60579ebd98ef338c8244"
+    },
+    {
+      "path": "genshin/splash/10000091.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d09fc68efa6400ae03541a7ff2c0841ca688b174",
+      "size": 1479905,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/d09fc68efa6400ae03541a7ff2c0841ca688b174"
+    },
+    {
+      "path": "genshin/splash/10000092.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a6c34052b8870d54c73b39db792cb92755e682f3",
+      "size": 1102531,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/a6c34052b8870d54c73b39db792cb92755e682f3"
+    },
+    {
+      "path": "genshin/splash/10000093.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3cc7687765f7a65f12a54fdde2dd04094c67e499",
+      "size": 1893852,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/3cc7687765f7a65f12a54fdde2dd04094c67e499"
+    },
+    {
+      "path": "genshin/splash/10000094.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "db71e8c9093903109c3634d1a0a51e4cb8d34d85",
+      "size": 1204638,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/db71e8c9093903109c3634d1a0a51e4cb8d34d85"
+    },
+    {
+      "path": "genshin/splash/10000095.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c22aa3ac106a5e8d6f997e8c3052f390e2b61e3a",
+      "size": 1227199,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/c22aa3ac106a5e8d6f997e8c3052f390e2b61e3a"
+    },
+    {
+      "path": "genshin/splash/10000096.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "45993f730c4d5fc18b33f8662c44f41f6102c95b",
+      "size": 1848579,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/45993f730c4d5fc18b33f8662c44f41f6102c95b"
+    },
+    {
+      "path": "genshin/splash/10000097.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "575b7c87db47818d83fb47a34e62bd64d4d29ccd",
+      "size": 1234645,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/575b7c87db47818d83fb47a34e62bd64d4d29ccd"
+    },
+    {
+      "path": "genshin/splash/10000098.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0f0c4f7597d29e77254ecbe10293f85ce7ce4b1d",
+      "size": 1895805,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/0f0c4f7597d29e77254ecbe10293f85ce7ce4b1d"
+    },
+    {
+      "path": "genshin/splash/10000099.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e726fb82b2f3446bab1e2ecb7881c32ec7ad44b7",
+      "size": 1666906,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/e726fb82b2f3446bab1e2ecb7881c32ec7ad44b7"
+    },
+    {
+      "path": "genshin/splash/10000100.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3da8205477d2853cd94af364b35da25147fde82e",
+      "size": 961429,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/3da8205477d2853cd94af364b35da25147fde82e"
+    },
+    {
+      "path": "genshin/splash/10000101.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "52a5f5d39c613f3851c45059962f65eb3c7cc18c",
+      "size": 1353064,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/52a5f5d39c613f3851c45059962f65eb3c7cc18c"
+    },
+    {
+      "path": "genshin/splash/10000102.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0eb6a89a1dd81fdee2e7bbd480e65581605fccb7",
+      "size": 1381920,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/0eb6a89a1dd81fdee2e7bbd480e65581605fccb7"
+    },
+    {
+      "path": "genshin/splash/10000103.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b5bfd41aff4789959a7360ac0b0ffac49577e95f",
+      "size": 1206645,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/b5bfd41aff4789959a7360ac0b0ffac49577e95f"
+    },
+    {
+      "path": "genshin/splash/10000104.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d9fc285ed7003a187267635657bdd5f8fc2068c9",
+      "size": 1929935,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/d9fc285ed7003a187267635657bdd5f8fc2068c9"
+    },
+    {
+      "path": "genshin/splash/10000105.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3d18b86a14f210eeb6840901b9f4a609aeb80a20",
+      "size": 820840,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/3d18b86a14f210eeb6840901b9f4a609aeb80a20"
+    },
+    {
+      "path": "genshin/splash/10000106.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3d2d18b00a9f6b82ad6741dc0f5d56ef31b68aea",
+      "size": 2515830,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/3d2d18b00a9f6b82ad6741dc0f5d56ef31b68aea"
+    },
+    {
+      "path": "genshin/splash/10000107.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "eba94353eeead1b00f9041aeacc55bb87eaf52d0",
+      "size": 1688108,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/eba94353eeead1b00f9041aeacc55bb87eaf52d0"
+    },
+    {
+      "path": "genshin/splash/10000108.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e1e906d99c10064692004d85cb8ef84c3a0de4f9",
+      "size": 1096843,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/e1e906d99c10064692004d85cb8ef84c3a0de4f9"
+    },
+    {
+      "path": "genshin/splash/10000109.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c4b368a50ce4a025b5e3d70cf90c019b27933c7a",
+      "size": 1032695,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/c4b368a50ce4a025b5e3d70cf90c019b27933c7a"
+    },
+    {
+      "path": "genshin/splash/10000110.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "831e425a8bc6e76fb0f440900f3249c4b5c5eea3",
+      "size": 728058,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/831e425a8bc6e76fb0f440900f3249c4b5c5eea3"
+    },
+    {
+      "path": "genshin/splash/10000111.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "becce49315947fe56d36fee5ce59c64bcad2b242",
+      "size": 1409560,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/becce49315947fe56d36fee5ce59c64bcad2b242"
+    },
+    {
+      "path": "genshin/wish",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "146d35e5192e6e507f641581e8919386d059fbe8",
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/trees/146d35e5192e6e507f641581e8919386d059fbe8"
+    },
+    {
+      "path": "genshin/wish/10000002.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cbf5ef4e9c4a54a536273765ce9fcb0936317214",
+      "size": 497821,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/cbf5ef4e9c4a54a536273765ce9fcb0936317214"
+    },
+    {
+      "path": "genshin/wish/10000003.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "03a7c369177d690caaf5d3c2a8a3492751d962c4",
+      "size": 416611,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/03a7c369177d690caaf5d3c2a8a3492751d962c4"
+    },
+    {
+      "path": "genshin/wish/10000005.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7edad452bdcd71fa6b4370a3cda636f2c66f9071",
+      "size": 435196,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/7edad452bdcd71fa6b4370a3cda636f2c66f9071"
+    },
+    {
+      "path": "genshin/wish/10000006.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9289a0b391bdd07a9b4123543d76d31232cd0eb5",
+      "size": 345955,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/9289a0b391bdd07a9b4123543d76d31232cd0eb5"
+    },
+    {
+      "path": "genshin/wish/10000007.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "faed863a32f9cabef0509ee43694fd7122dbaa33",
+      "size": 375857,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/faed863a32f9cabef0509ee43694fd7122dbaa33"
+    },
+    {
+      "path": "genshin/wish/10000014.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1758d2a4c877828a4afdc15a014ed5546246fb38",
+      "size": 362214,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/1758d2a4c877828a4afdc15a014ed5546246fb38"
+    },
+    {
+      "path": "genshin/wish/10000015.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0d260599ad3268c407d8976e4eccd926b9dd67b3",
+      "size": 304789,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/0d260599ad3268c407d8976e4eccd926b9dd67b3"
+    },
+    {
+      "path": "genshin/wish/10000016.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a5179623c26872bc48e585d81f42c5582a735457",
+      "size": 462292,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/a5179623c26872bc48e585d81f42c5582a735457"
+    },
+    {
+      "path": "genshin/wish/10000020.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6d817689c31209dab4c576e7d648ff186f026911",
+      "size": 418664,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/6d817689c31209dab4c576e7d648ff186f026911"
+    },
+    {
+      "path": "genshin/wish/10000021.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "904c296a9c8a362cd4422fec232b384fa388ee99",
+      "size": 268267,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/904c296a9c8a362cd4422fec232b384fa388ee99"
+    },
+    {
+      "path": "genshin/wish/10000022.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "19cb7a3897df4b3fe15a435f529ecd1680327a58",
+      "size": 434418,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/19cb7a3897df4b3fe15a435f529ecd1680327a58"
+    },
+    {
+      "path": "genshin/wish/10000023.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "90d6e1f37ee68e191ecea00689ab1746ba500701",
+      "size": 249755,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/90d6e1f37ee68e191ecea00689ab1746ba500701"
+    },
+    {
+      "path": "genshin/wish/10000024.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "db602fcf73a4d9f05b49c494aa38dd7f872376a4",
+      "size": 364413,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/db602fcf73a4d9f05b49c494aa38dd7f872376a4"
+    },
+    {
+      "path": "genshin/wish/10000025.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "46c1b6317349d64213113f4fee8416d146ff8ae7",
+      "size": 298074,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/46c1b6317349d64213113f4fee8416d146ff8ae7"
+    },
+    {
+      "path": "genshin/wish/10000026.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5f06d4cb2a4855c04eae57a11ba2b122ceb730f7",
+      "size": 415102,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/5f06d4cb2a4855c04eae57a11ba2b122ceb730f7"
+    },
+    {
+      "path": "genshin/wish/10000027.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a8f5d3ca6fd13bb70a611da1d7120440f87d7eb0",
+      "size": 322847,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/a8f5d3ca6fd13bb70a611da1d7120440f87d7eb0"
+    },
+    {
+      "path": "genshin/wish/10000029.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6d125155eb029a261eb235131e83ac42d22c4b05",
+      "size": 350309,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/6d125155eb029a261eb235131e83ac42d22c4b05"
+    },
+    {
+      "path": "genshin/wish/10000030.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "778033bf1e8ee4adcfebc947b48dbc93a2a835d6",
+      "size": 531491,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/778033bf1e8ee4adcfebc947b48dbc93a2a835d6"
+    },
+    {
+      "path": "genshin/wish/10000031.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dbf6f7a33cb5fa35a374233ab463d04ddcd54163",
+      "size": 423535,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/dbf6f7a33cb5fa35a374233ab463d04ddcd54163"
+    },
+    {
+      "path": "genshin/wish/10000032.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9a9ad6d50d07d09a94e2fe9f1787339f2bfef836",
+      "size": 368414,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/9a9ad6d50d07d09a94e2fe9f1787339f2bfef836"
+    },
+    {
+      "path": "genshin/wish/10000033.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dcb0cbbcd8365f5060810d68da68b8d46e848c34",
+      "size": 483870,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/dcb0cbbcd8365f5060810d68da68b8d46e848c34"
+    },
+    {
+      "path": "genshin/wish/10000034.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9c0fa5cdb64c22188517a9143b969bbdbbe1182a",
+      "size": 326771,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/9c0fa5cdb64c22188517a9143b969bbdbbe1182a"
+    },
+    {
+      "path": "genshin/wish/10000035.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8aad9a59ba5893cd5c1bad9fb8cb3fc291e6bb65",
+      "size": 498067,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/8aad9a59ba5893cd5c1bad9fb8cb3fc291e6bb65"
+    },
+    {
+      "path": "genshin/wish/10000036.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6849b343ef3638d36ab5c654f48bb8bebfc3bb50",
+      "size": 355623,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/6849b343ef3638d36ab5c654f48bb8bebfc3bb50"
+    },
+    {
+      "path": "genshin/wish/10000037.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "14de932f15c5363b36cad1ac1d4d74b6724a3a70",
+      "size": 413486,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/14de932f15c5363b36cad1ac1d4d74b6724a3a70"
+    },
+    {
+      "path": "genshin/wish/10000038.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "69830a616f70506c5cadbbe72b5aa4fcb35edf17",
+      "size": 467938,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/69830a616f70506c5cadbbe72b5aa4fcb35edf17"
+    },
+    {
+      "path": "genshin/wish/10000039.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c2ecf3d6e07211dbd5b0d455353c6284a76cca4e",
+      "size": 284022,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/c2ecf3d6e07211dbd5b0d455353c6284a76cca4e"
+    },
+    {
+      "path": "genshin/wish/10000041.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f393953b95944472351eeadd83ac6c140cea6f6d",
+      "size": 544382,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/f393953b95944472351eeadd83ac6c140cea6f6d"
+    },
+    {
+      "path": "genshin/wish/10000042.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8f40a5514f55208baa6e1180e3bb4047057eb898",
+      "size": 490896,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/8f40a5514f55208baa6e1180e3bb4047057eb898"
+    },
+    {
+      "path": "genshin/wish/10000043.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "206af3cb091a847904ac9a6dda1e74509910d9cf",
+      "size": 397353,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/206af3cb091a847904ac9a6dda1e74509910d9cf"
+    },
+    {
+      "path": "genshin/wish/10000044.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d2265dcab3e73782757ade15e1af1800e9557fb7",
+      "size": 431073,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/d2265dcab3e73782757ade15e1af1800e9557fb7"
+    },
+    {
+      "path": "genshin/wish/10000045.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e99d1bc831714da2f7243f0789d85d918de6f4fb",
+      "size": 397284,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/e99d1bc831714da2f7243f0789d85d918de6f4fb"
+    },
+    {
+      "path": "genshin/wish/10000046.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e41a49567cfabd0fa2e1ca5dc084c289428a441b",
+      "size": 348584,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/e41a49567cfabd0fa2e1ca5dc084c289428a441b"
+    },
+    {
+      "path": "genshin/wish/10000047.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6ee3371138af04b76bf329dee5f494bcc96c3c34",
+      "size": 367530,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/6ee3371138af04b76bf329dee5f494bcc96c3c34"
+    },
+    {
+      "path": "genshin/wish/10000048.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2528c163da720e784fa8c7003bd817868e65284c",
+      "size": 349888,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/2528c163da720e784fa8c7003bd817868e65284c"
+    },
+    {
+      "path": "genshin/wish/10000049.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7e3ade28ec9635e816db3caaf299c8b7c545937a",
+      "size": 448731,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/7e3ade28ec9635e816db3caaf299c8b7c545937a"
+    },
+    {
+      "path": "genshin/wish/10000050.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b218de39fb9081a72f05b79b2815ea744a19cc50",
+      "size": 321719,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/b218de39fb9081a72f05b79b2815ea744a19cc50"
+    },
+    {
+      "path": "genshin/wish/10000051.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "03441d511a2f184906e10771203cb1292e531c8a",
+      "size": 467328,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/03441d511a2f184906e10771203cb1292e531c8a"
+    },
+    {
+      "path": "genshin/wish/10000052.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b0a56f1ae82f11b67d2a8a574e9c73e8eb30b52d",
+      "size": 552093,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/b0a56f1ae82f11b67d2a8a574e9c73e8eb30b52d"
+    },
+    {
+      "path": "genshin/wish/10000053.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0258c1e98d4db23c20ce4a4052dddd5077b02fca",
+      "size": 241899,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/0258c1e98d4db23c20ce4a4052dddd5077b02fca"
+    },
+    {
+      "path": "genshin/wish/10000054.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "529aa51dd056a40db43f07a13edf2e7a4fff546f",
+      "size": 457059,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/529aa51dd056a40db43f07a13edf2e7a4fff546f"
+    },
+    {
+      "path": "genshin/wish/10000055.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "475825aa10fff6cc7307ba299b989216ef4b2ab0",
+      "size": 344419,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/475825aa10fff6cc7307ba299b989216ef4b2ab0"
+    },
+    {
+      "path": "genshin/wish/10000056.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "591bfcb12bec6b4460824a8d6d9d1be055bb68f2",
+      "size": 340339,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/591bfcb12bec6b4460824a8d6d9d1be055bb68f2"
+    },
+    {
+      "path": "genshin/wish/10000057.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "084ac1a4832ddbe7a9480bbef510ed827e13cd24",
+      "size": 440837,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/084ac1a4832ddbe7a9480bbef510ed827e13cd24"
+    },
+    {
+      "path": "genshin/wish/10000058.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "aa62501d29390a00a1341eb093f866cfe63eea8e",
+      "size": 486805,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/aa62501d29390a00a1341eb093f866cfe63eea8e"
+    },
+    {
+      "path": "genshin/wish/10000059.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9f5714c33f1b679288896c6351dc92380df514f8",
+      "size": 379131,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/9f5714c33f1b679288896c6351dc92380df514f8"
+    },
+    {
+      "path": "genshin/wish/10000060.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "54ba59df2a37c9adca9192ba269d37e0fda4145b",
+      "size": 515179,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/54ba59df2a37c9adca9192ba269d37e0fda4145b"
+    },
+    {
+      "path": "genshin/wish/10000061.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5db7b791f23eb90ee08933161088df6ff8bf42bd",
+      "size": 400746,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/5db7b791f23eb90ee08933161088df6ff8bf42bd"
+    },
+    {
+      "path": "genshin/wish/10000062.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3b0ad156506d61ba50544b605506a993fc983110",
+      "size": 425578,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/3b0ad156506d61ba50544b605506a993fc983110"
+    },
+    {
+      "path": "genshin/wish/10000063.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "266498e8ddc535cfce40e0c712cae16921b83381",
+      "size": 476554,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/266498e8ddc535cfce40e0c712cae16921b83381"
+    },
+    {
+      "path": "genshin/wish/10000064.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8d3d26fb3d4d206abf7255fbc260d5224725da30",
+      "size": 344628,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/8d3d26fb3d4d206abf7255fbc260d5224725da30"
+    },
+    {
+      "path": "genshin/wish/10000065.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a53b6ff119890819566ba32626690de46f1cea7a",
+      "size": 305086,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/a53b6ff119890819566ba32626690de46f1cea7a"
+    },
+    {
+      "path": "genshin/wish/10000066.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "73bca64174ae893a655fa2da0979ea0e4172ce33",
+      "size": 451914,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/73bca64174ae893a655fa2da0979ea0e4172ce33"
+    },
+    {
+      "path": "genshin/wish/10000067.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e992b88e5c0e5343b55f9d15dd15f760157e9252",
+      "size": 429671,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/e992b88e5c0e5343b55f9d15dd15f760157e9252"
+    },
+    {
+      "path": "genshin/wish/10000068.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "03d66586b8f22a9ba42215f57fd1f1223a9c1862",
+      "size": 411328,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/03d66586b8f22a9ba42215f57fd1f1223a9c1862"
+    },
+    {
+      "path": "genshin/wish/10000069.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "134954441b69961f34e3e8e6c3be03642b1c7010",
+      "size": 484665,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/134954441b69961f34e3e8e6c3be03642b1c7010"
+    },
+    {
+      "path": "genshin/wish/10000070.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4f6b6628693cc348a5bdb5642c7e5078a70e0c31",
+      "size": 565154,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/4f6b6628693cc348a5bdb5642c7e5078a70e0c31"
+    },
+    {
+      "path": "genshin/wish/10000071.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "762709485344ebdcf7bd87a9e9865e2aa6e077f3",
+      "size": 516046,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/762709485344ebdcf7bd87a9e9865e2aa6e077f3"
+    },
+    {
+      "path": "genshin/wish/10000072.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2ea70896e4c0f5c9b15d09169444b05bbf1ba9de",
+      "size": 377675,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/2ea70896e4c0f5c9b15d09169444b05bbf1ba9de"
+    },
+    {
+      "path": "genshin/wish/10000073.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bc04aa8ff28f3990dd82d0fc9bc888ebf1eeb1e0",
+      "size": 544995,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/bc04aa8ff28f3990dd82d0fc9bc888ebf1eeb1e0"
+    },
+    {
+      "path": "genshin/wish/10000074.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5dec36e39100b19bdbe12aa9b0474523df9c83d1",
+      "size": 413620,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/5dec36e39100b19bdbe12aa9b0474523df9c83d1"
+    },
+    {
+      "path": "genshin/wish/10000075.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "808f47708ef19543b62d629c7fe0ede02fc6366d",
+      "size": 546192,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/808f47708ef19543b62d629c7fe0ede02fc6366d"
+    },
+    {
+      "path": "genshin/wish/10000076.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b2a71bb58372884d08b5920f9f70ebce531207a4",
+      "size": 366447,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/b2a71bb58372884d08b5920f9f70ebce531207a4"
+    },
+    {
+      "path": "genshin/wish/10000077.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "973eed9f709a183c1b37e9463962414bbea22177",
+      "size": 319456,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/973eed9f709a183c1b37e9463962414bbea22177"
+    },
+    {
+      "path": "genshin/wish/10000078.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a054cb12c128b80c0c3e8e8c69d0f4e4a40d7cc9",
+      "size": 426106,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/a054cb12c128b80c0c3e8e8c69d0f4e4a40d7cc9"
+    },
+    {
+      "path": "genshin/wish/10000079.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "92f9ff42be4de5e993fc80bd4165e580ad8bf51f",
+      "size": 444770,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/92f9ff42be4de5e993fc80bd4165e580ad8bf51f"
+    },
+    {
+      "path": "genshin/wish/10000080.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "45d2ba015bd382ba73cfadd351d797c2ecafec73",
+      "size": 387809,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/45d2ba015bd382ba73cfadd351d797c2ecafec73"
+    },
+    {
+      "path": "genshin/wish/10000081.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cd38cca67e95ac09e2d6334d8a94650ebc99df0b",
+      "size": 443762,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/cd38cca67e95ac09e2d6334d8a94650ebc99df0b"
+    },
+    {
+      "path": "genshin/wish/10000082.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "209d84d33d999358c179d0fc9ccf0f00e5de7dd1",
+      "size": 478161,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/209d84d33d999358c179d0fc9ccf0f00e5de7dd1"
+    },
+    {
+      "path": "genshin/wish/10000083.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c599eb7eee84890935838ef63558157bb480d962",
+      "size": 325308,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/c599eb7eee84890935838ef63558157bb480d962"
+    },
+    {
+      "path": "genshin/wish/10000084.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a7ec45131a014bbf39d1318ed87506673fa1e795",
+      "size": 486933,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/a7ec45131a014bbf39d1318ed87506673fa1e795"
+    },
+    {
+      "path": "genshin/wish/10000085.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "082e1fa2ac7a9fec677512c38b143520a80975ed",
+      "size": 423421,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/082e1fa2ac7a9fec677512c38b143520a80975ed"
+    },
+    {
+      "path": "genshin/wish/10000086.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "21f76fa9a9348d6232c1c76d52d1d6eb12b9f35d",
+      "size": 532178,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/21f76fa9a9348d6232c1c76d52d1d6eb12b9f35d"
+    },
+    {
+      "path": "genshin/wish/10000087.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "19da23ae3c9d18ceefff573bc1342ca96d0cbf76",
+      "size": 569647,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/19da23ae3c9d18ceefff573bc1342ca96d0cbf76"
+    },
+    {
+      "path": "genshin/wish/10000088.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1d6ef450b3cbc264190e0cc142a2d640a6192440",
+      "size": 433488,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/1d6ef450b3cbc264190e0cc142a2d640a6192440"
+    },
+    {
+      "path": "genshin/wish/10000089.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ced6cb1250d2f7ab230fc43a36d01331dcc92cdc",
+      "size": 579639,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/ced6cb1250d2f7ab230fc43a36d01331dcc92cdc"
+    },
+    {
+      "path": "genshin/wish/10000090.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7c3ce65242c77cd2955af241dd3fa3acd4c51db3",
+      "size": 403849,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/7c3ce65242c77cd2955af241dd3fa3acd4c51db3"
+    },
+    {
+      "path": "genshin/wish/10000091.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c3f99ef4b2d88985eea9bfe6a61ea90e60296182",
+      "size": 550376,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/c3f99ef4b2d88985eea9bfe6a61ea90e60296182"
+    },
+    {
+      "path": "genshin/wish/10000092.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4e99eae7e62d421c238e9027b75622e2c65c1972",
+      "size": 478873,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/4e99eae7e62d421c238e9027b75622e2c65c1972"
+    },
+    {
+      "path": "genshin/wish/10000093.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "868f1ab3a2390961e879a7901c36cf5d31a7bf0b",
+      "size": 576136,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/868f1ab3a2390961e879a7901c36cf5d31a7bf0b"
+    },
+    {
+      "path": "genshin/wish/10000094.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "aa2eb1b4e018eca4192fdcbc27b74923cb771dca",
+      "size": 505079,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/aa2eb1b4e018eca4192fdcbc27b74923cb771dca"
+    },
+    {
+      "path": "genshin/wish/10000095.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5ca44c6cd7d8bdf0a338fa4f28509fe682cae675",
+      "size": 488850,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/5ca44c6cd7d8bdf0a338fa4f28509fe682cae675"
+    },
+    {
+      "path": "genshin/wish/10000096.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6e8bd594e684128153acc8238300881adb24f501",
+      "size": 535243,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/6e8bd594e684128153acc8238300881adb24f501"
+    },
+    {
+      "path": "genshin/wish/10000097.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6d3398a122f44d013cf07487879c5fd1f9f78c74",
+      "size": 511199,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/6d3398a122f44d013cf07487879c5fd1f9f78c74"
+    },
+    {
+      "path": "genshin/wish/10000098.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0587ee10bf18af9743cba141106a8e3ed6f08c0d",
+      "size": 561839,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/0587ee10bf18af9743cba141106a8e3ed6f08c0d"
+    },
+    {
+      "path": "genshin/wish/10000099.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3bae76456f96054291bd8c61065c6f3a56371d78",
+      "size": 542390,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/3bae76456f96054291bd8c61065c6f3a56371d78"
+    },
+    {
+      "path": "genshin/wish/10000100.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "90931c7832a5a4ea055a421830128be7b5977af6",
+      "size": 444360,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/90931c7832a5a4ea055a421830128be7b5977af6"
+    },
+    {
+      "path": "genshin/wish/10000101.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2c58959f44efcf77a04a42dd7e923e161d8226ab",
+      "size": 481462,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/2c58959f44efcf77a04a42dd7e923e161d8226ab"
+    },
+    {
+      "path": "genshin/wish/10000102.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a93a4c080b4f47f1efb7d4c5f692a1a23ec04f5c",
+      "size": 459412,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/a93a4c080b4f47f1efb7d4c5f692a1a23ec04f5c"
+    },
+    {
+      "path": "genshin/wish/10000103.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "040e12a8144b292fa390f814fbf685b5a74760bb",
+      "size": 464629,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/040e12a8144b292fa390f814fbf685b5a74760bb"
+    },
+    {
+      "path": "genshin/wish/10000104.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "000dacedd815953a9a9810ebfe5bbfaed2f2ce3f",
+      "size": 482404,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/000dacedd815953a9a9810ebfe5bbfaed2f2ce3f"
+    },
+    {
+      "path": "genshin/wish/10000105.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "eb786fa1bc6d781446150af33469a9ec52552d45",
+      "size": 365875,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/eb786fa1bc6d781446150af33469a9ec52552d45"
+    },
+    {
+      "path": "genshin/wish/10000106.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4d29f312cf38e278c659dec9aaf3b9b539361333",
+      "size": 559385,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/4d29f312cf38e278c659dec9aaf3b9b539361333"
+    },
+    {
+      "path": "genshin/wish/10000107.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "74e1d05a10cfe6ea44ae4e1edad6eb345ee5b166",
+      "size": 516654,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/74e1d05a10cfe6ea44ae4e1edad6eb345ee5b166"
+    },
+    {
+      "path": "genshin/wish/10000108.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a811ab6638d540dcec50b1fd0542a512301c9b3c",
+      "size": 382622,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/a811ab6638d540dcec50b1fd0542a512301c9b3c"
+    },
+    {
+      "path": "genshin/wish/10000109.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9502e6accc1c41febe56ec6d698768724b047a00",
+      "size": 437410,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/9502e6accc1c41febe56ec6d698768724b047a00"
+    },
+    {
+      "path": "genshin/wish/10000110.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "561e55d00277a4cbd9ba6e284d4b90997d0484ce",
+      "size": 299266,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/561e55d00277a4cbd9ba6e284d4b90997d0484ce"
+    },
+    {
+      "path": "genshin/wish/10000111.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "87c046b8ad6a31a3d584792dc7eced645dcebb94",
+      "size": 444865,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/87c046b8ad6a31a3d584792dc7eced645dcebb94"
+    },
+    {
+      "path": "gi_characters.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6eb4cee03300548dfab1aeabe1ccefee9ec98b5b",
+      "size": 2567,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/6eb4cee03300548dfab1aeabe1ccefee9ec98b5b"
+    },
+    {
+      "path": "hsr_characters.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6e5cdda80abcdd20d7dfc56f94e73c2a7849698f",
+      "size": 1810,
+      "url": "https://api.github.com/repos/ScobbleQ/HoYo-Assets/git/blobs/6e5cdda80abcdd20d7dfc56f94e73c2a7849698f"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "database_logical_unchanged": true,
+  "database_schema_unchanged": true,
+  "protected_files": {
+    "schema.sql": true,
+    "init_db.py": true,
+    "planner.py": true,
+    "source_snapshot.json": true,
+    "run_windows.bat": true
+  }
+}

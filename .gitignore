@@ -1,0 +1,43 @@
+# Python / dependencies
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+node_modules/
+# Local secrets / cloud tooling
+.env
+.env.*
+.dev.vars*
+.wrangler/
+*.pem
+*.key
+# Mutable databases, journals and local backups
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+*.sqlite3-*
+local_backups/
+# Unconfirmed game artwork distribution rights (keep metadata and original placeholder)
+*.webp
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.avif
+*.bmp
+*.tif
+*.tiff
+*.ico
+# Temporary files / logs / editor state
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+.DS_Store
+Thumbs.db
+.pytest_cache/
+.coverage
+htmlcov/

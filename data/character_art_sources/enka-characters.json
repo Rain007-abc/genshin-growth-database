@@ -1,0 +1,578 @@
+{
+  "10000002": {
+    "SideIconName": "UI_AvatarIcon_Side_Ayaka",
+    "Element": "Ice",
+    "NameTextMapHash": 1006042610
+  },
+  "10000003": {
+    "SideIconName": "UI_AvatarIcon_Side_Qin",
+    "Element": "Wind",
+    "NameTextMapHash": 3221566250
+  },
+  "10000005": {
+    "SideIconName": "UI_AvatarIcon_Side_PlayerBoy",
+    "Element": "Wind",
+    "NameTextMapHash": 1533656818
+  },
+  "10000006": {
+    "SideIconName": "UI_AvatarIcon_Side_Lisa",
+    "Element": "Electric",
+    "NameTextMapHash": 3344622722
+  },
+  "10000007": {
+    "SideIconName": "UI_AvatarIcon_Side_PlayerGirl",
+    "Element": "Wind",
+    "NameTextMapHash": 3816664530
+  },
+  "10000014": {
+    "SideIconName": "UI_AvatarIcon_Side_Barbara",
+    "Element": "Water",
+    "NameTextMapHash": 3775299170
+  },
+  "10000015": {
+    "SideIconName": "UI_AvatarIcon_Side_Kaeya",
+    "Element": "Ice",
+    "NameTextMapHash": 4119663210
+  },
+  "10000016": {
+    "SideIconName": "UI_AvatarIcon_Side_Diluc",
+    "Element": "Fire",
+    "NameTextMapHash": 3608180322
+  },
+  "10000020": {
+    "SideIconName": "UI_AvatarIcon_Side_Razor",
+    "Element": "Electric",
+    "NameTextMapHash": 4160147242
+  },
+  "10000021": {
+    "SideIconName": "UI_AvatarIcon_Side_Ambor",
+    "Element": "Fire",
+    "NameTextMapHash": 1966438658
+  },
+  "10000022": {
+    "SideIconName": "UI_AvatarIcon_Side_Venti",
+    "Element": "Wind",
+    "NameTextMapHash": 2466140362
+  },
+  "10000023": {
+    "SideIconName": "UI_AvatarIcon_Side_Xiangling",
+    "Element": "Fire",
+    "NameTextMapHash": 1130996346
+  },
+  "10000024": {
+    "SideIconName": "UI_AvatarIcon_Side_Beidou",
+    "Element": "Electric",
+    "NameTextMapHash": 2646367730
+  },
+  "10000025": {
+    "SideIconName": "UI_AvatarIcon_Side_Xingqiu",
+    "Element": "Water",
+    "NameTextMapHash": 4197635682
+  },
+  "10000026": {
+    "SideIconName": "UI_AvatarIcon_Side_Xiao",
+    "Element": "Wind",
+    "NameTextMapHash": 1021947690
+  },
+  "10000027": {
+    "SideIconName": "UI_AvatarIcon_Side_Ningguang",
+    "Element": "Rock",
+    "NameTextMapHash": 4127888970
+  },
+  "10000029": {
+    "SideIconName": "UI_AvatarIcon_Side_Klee",
+    "Element": "Fire",
+    "NameTextMapHash": 3339083250
+  },
+  "10000030": {
+    "SideIconName": "UI_AvatarIcon_Side_Zhongli",
+    "Element": "Rock",
+    "NameTextMapHash": 3862787418
+  },
+  "10000031": {
+    "SideIconName": "UI_AvatarIcon_Side_Fischl",
+    "Element": "Electric",
+    "NameTextMapHash": 3277782506
+  },
+  "10000032": {
+    "SideIconName": "UI_AvatarIcon_Side_Bennett",
+    "Element": "Fire",
+    "NameTextMapHash": 968893378
+  },
+  "10000033": {
+    "SideIconName": "UI_AvatarIcon_Side_Tartaglia",
+    "Element": "Water",
+    "NameTextMapHash": 3847143266
+  },
+  "10000034": {
+    "SideIconName": "UI_AvatarIcon_Side_Noel",
+    "Element": "Rock",
+    "NameTextMapHash": 1921418842
+  },
+  "10000035": {
+    "SideIconName": "UI_AvatarIcon_Side_Qiqi",
+    "Element": "Ice",
+    "NameTextMapHash": 168956722
+  },
+  "10000036": {
+    "SideIconName": "UI_AvatarIcon_Side_Chongyun",
+    "Element": "Ice",
+    "NameTextMapHash": 2876340530
+  },
+  "10000037": {
+    "SideIconName": "UI_AvatarIcon_Side_Ganyu",
+    "Element": "Ice",
+    "NameTextMapHash": 2679781122
+  },
+  "10000038": {
+    "SideIconName": "UI_AvatarIcon_Side_Albedo",
+    "Element": "Rock",
+    "NameTextMapHash": 4108620722
+  },
+  "10000039": {
+    "SideIconName": "UI_AvatarIcon_Side_Diona",
+    "Element": "Ice",
+    "NameTextMapHash": 1468367538
+  },
+  "10000041": {
+    "SideIconName": "UI_AvatarIcon_Side_Mona",
+    "Element": "Water",
+    "NameTextMapHash": 1113306282
+  },
+  "10000042": {
+    "SideIconName": "UI_AvatarIcon_Side_Keqing",
+    "Element": "Electric",
+    "NameTextMapHash": 1864015138
+  },
+  "10000043": {
+    "SideIconName": "UI_AvatarIcon_Side_Sucrose",
+    "Element": "Wind",
+    "NameTextMapHash": 1053433018
+  },
+  "10000044": {
+    "SideIconName": "UI_AvatarIcon_Side_Xinyan",
+    "Element": "Fire",
+    "NameTextMapHash": 4273845410
+  },
+  "10000045": {
+    "SideIconName": "UI_AvatarIcon_Side_Rosaria",
+    "Element": "Ice",
+    "NameTextMapHash": 4260733330
+  },
+  "10000046": {
+    "SideIconName": "UI_AvatarIcon_Side_Hutao",
+    "Element": "Fire",
+    "NameTextMapHash": 1940919994
+  },
+  "10000047": {
+    "SideIconName": "UI_AvatarIcon_Side_Kazuha",
+    "Element": "Wind",
+    "NameTextMapHash": 88505754
+  },
+  "10000048": {
+    "SideIconName": "UI_AvatarIcon_Side_Feiyan",
+    "Element": "Fire",
+    "NameTextMapHash": 697277554
+  },
+  "10000049": {
+    "SideIconName": "UI_AvatarIcon_Side_Yoimiya",
+    "Element": "Fire",
+    "NameTextMapHash": 2504399314
+  },
+  "10000050": {
+    "SideIconName": "UI_AvatarIcon_Side_Tohma",
+    "Element": "Fire",
+    "NameTextMapHash": 3555115602
+  },
+  "10000051": {
+    "SideIconName": "UI_AvatarIcon_Side_Eula",
+    "Element": "Ice",
+    "NameTextMapHash": 3717667418
+  },
+  "10000052": {
+    "SideIconName": "UI_AvatarIcon_Side_Shougun",
+    "Element": "Electric",
+    "NameTextMapHash": 3024507506
+  },
+  "10000053": {
+    "SideIconName": "UI_AvatarIcon_Side_Sayu",
+    "Element": "Wind",
+    "NameTextMapHash": 2388785242
+  },
+  "10000054": {
+    "SideIconName": "UI_AvatarIcon_Side_Kokomi",
+    "Element": "Water",
+    "NameTextMapHash": 3914045794
+  },
+  "10000055": {
+    "SideIconName": "UI_AvatarIcon_Side_Gorou",
+    "Element": "Rock",
+    "NameTextMapHash": 3400133546
+  },
+  "10000056": {
+    "SideIconName": "UI_AvatarIcon_Side_Sara",
+    "Element": "Electric",
+    "NameTextMapHash": 1483922610
+  },
+  "10000057": {
+    "SideIconName": "UI_AvatarIcon_Side_Itto",
+    "Element": "Rock",
+    "NameTextMapHash": 3068316954
+  },
+  "10000058": {
+    "SideIconName": "UI_AvatarIcon_Side_Yae",
+    "Element": "Electric",
+    "NameTextMapHash": 2713453234
+  },
+  "10000059": {
+    "SideIconName": "UI_AvatarIcon_Side_Heizo",
+    "Element": "Wind",
+    "NameTextMapHash": 646032090
+  },
+  "10000060": {
+    "SideIconName": "UI_AvatarIcon_Side_Yelan",
+    "Element": "Water",
+    "NameTextMapHash": 2848374378
+  },
+  "10000061": {
+    "SideIconName": "UI_AvatarIcon_Side_Momoka",
+    "Element": "Grass",
+    "NameTextMapHash": 1456643042
+  },
+  "10000062": {
+    "SideIconName": "UI_AvatarIcon_Side_Aloy",
+    "Element": "Ice",
+    "NameTextMapHash": 3689108098
+  },
+  "10000063": {
+    "SideIconName": "UI_AvatarIcon_Side_Shenhe",
+    "Element": "Ice",
+    "NameTextMapHash": 334242634
+  },
+  "10000064": {
+    "SideIconName": "UI_AvatarIcon_Side_Yunjin",
+    "Element": "Rock",
+    "NameTextMapHash": 655825874
+  },
+  "10000065": {
+    "SideIconName": "UI_AvatarIcon_Side_Shinobu",
+    "Element": "Electric",
+    "NameTextMapHash": 1940821986
+  },
+  "10000066": {
+    "SideIconName": "UI_AvatarIcon_Side_Ayato",
+    "Element": "Water",
+    "NameTextMapHash": 1588620330
+  },
+  "10000067": {
+    "SideIconName": "UI_AvatarIcon_Side_Collei",
+    "Element": "Grass",
+    "NameTextMapHash": 2948362178
+  },
+  "10000068": {
+    "SideIconName": "UI_AvatarIcon_Side_Dori",
+    "Element": "Electric",
+    "NameTextMapHash": 388272194
+  },
+  "10000069": {
+    "SideIconName": "UI_AvatarIcon_Side_Tighnari",
+    "Element": "Grass",
+    "NameTextMapHash": 2506955778
+  },
+  "10000070": {
+    "SideIconName": "UI_AvatarIcon_Side_Nilou",
+    "Element": "Water",
+    "NameTextMapHash": 3850149970
+  },
+  "10000071": {
+    "SideIconName": "UI_AvatarIcon_Side_Cyno",
+    "Element": "Electric",
+    "NameTextMapHash": 1049891906
+  },
+  "10000072": {
+    "SideIconName": "UI_AvatarIcon_Side_Candace",
+    "Element": "Water",
+    "NameTextMapHash": 3092975658
+  },
+  "10000073": {
+    "SideIconName": "UI_AvatarIcon_Side_Nahida",
+    "Element": "Grass",
+    "NameTextMapHash": 712501082
+  },
+  "10000074": {
+    "SideIconName": "UI_AvatarIcon_Side_Layla",
+    "Element": "Ice",
+    "NameTextMapHash": 2889777514
+  },
+  "10000075": {
+    "SideIconName": "UI_AvatarIcon_Side_Wanderer",
+    "Element": "Wind",
+    "NameTextMapHash": 3230559562
+  },
+  "10000076": {
+    "SideIconName": "UI_AvatarIcon_Side_Faruzan",
+    "Element": "Wind",
+    "NameTextMapHash": 2387711994
+  },
+  "10000077": {
+    "SideIconName": "UI_AvatarIcon_Side_Yaoyao",
+    "Element": "Grass",
+    "NameTextMapHash": 1732418482
+  },
+  "10000078": {
+    "SideIconName": "UI_AvatarIcon_Side_Alhatham",
+    "Element": "Grass",
+    "NameTextMapHash": 4002157418
+  },
+  "10000079": {
+    "SideIconName": "UI_AvatarIcon_Side_Dehya",
+    "Element": "Fire",
+    "NameTextMapHash": 2360533154
+  },
+  "10000080": {
+    "SideIconName": "UI_AvatarIcon_Side_Mika",
+    "Element": "Ice",
+    "NameTextMapHash": 231911858
+  },
+  "10000081": {
+    "SideIconName": "UI_AvatarIcon_Side_Kaveh",
+    "Element": "Grass",
+    "NameTextMapHash": 466355514
+  },
+  "10000082": {
+    "SideIconName": "UI_AvatarIcon_Side_Baizhuer",
+    "Element": "Grass",
+    "NameTextMapHash": 2984815066
+  },
+  "10000083": {
+    "SideIconName": "UI_AvatarIcon_Side_Linette",
+    "Element": "Wind",
+    "NameTextMapHash": 1225226258
+  },
+  "10000084": {
+    "SideIconName": "UI_AvatarIcon_Side_Liney",
+    "Element": "Fire",
+    "NameTextMapHash": 2472444970
+  },
+  "10000085": {
+    "SideIconName": "UI_AvatarIcon_Side_Freminet",
+    "Element": "Ice",
+    "NameTextMapHash": 4201964354
+  },
+  "10000086": {
+    "SideIconName": "UI_AvatarIcon_Side_Wriothesley",
+    "Element": "Ice",
+    "NameTextMapHash": 370151050
+  },
+  "10000087": {
+    "SideIconName": "UI_AvatarIcon_Side_Neuvillette",
+    "Element": "Water",
+    "NameTextMapHash": 1504902330
+  },
+  "10000088": {
+    "SideIconName": "UI_AvatarIcon_Side_Charlotte",
+    "Element": "Ice",
+    "NameTextMapHash": 3831162130
+  },
+  "10000089": {
+    "SideIconName": "UI_AvatarIcon_Side_Furina",
+    "Element": "Water",
+    "NameTextMapHash": 2180900234
+  },
+  "10000090": {
+    "SideIconName": "UI_AvatarIcon_Side_Chevreuse",
+    "Element": "Fire",
+    "NameTextMapHash": 540313842
+  },
+  "10000091": {
+    "SideIconName": "UI_AvatarIcon_Side_Navia",
+    "Element": "Rock",
+    "NameTextMapHash": 2877588578
+  },
+  "10000092": {
+    "SideIconName": "UI_AvatarIcon_Side_Gaming",
+    "Element": "Fire",
+    "NameTextMapHash": 2822240322
+  },
+  "10000093": {
+    "SideIconName": "UI_AvatarIcon_Side_Liuyun",
+    "Element": "Wind",
+    "NameTextMapHash": 3648220770
+  },
+  "10000094": {
+    "SideIconName": "UI_AvatarIcon_Side_Chiori",
+    "Element": "Rock",
+    "NameTextMapHash": 1944606922
+  },
+  "10000095": {
+    "SideIconName": "UI_AvatarIcon_Side_Sigewinne",
+    "Element": "Water",
+    "NameTextMapHash": 781488962
+  },
+  "10000096": {
+    "SideIconName": "UI_AvatarIcon_Side_Arlecchino",
+    "Element": "Fire",
+    "NameTextMapHash": 167199474
+  },
+  "10000097": {
+    "SideIconName": "UI_AvatarIcon_Side_Sethos",
+    "Element": "Electric",
+    "NameTextMapHash": 1431322346
+  },
+  "10000098": {
+    "SideIconName": "UI_AvatarIcon_Side_Clorinde",
+    "Element": "Electric",
+    "NameTextMapHash": 2745369298
+  },
+  "10000099": {
+    "SideIconName": "UI_AvatarIcon_Side_Emilie",
+    "Element": "Grass",
+    "NameTextMapHash": 1705786122
+  },
+  "10000100": {
+    "SideIconName": "UI_AvatarIcon_Side_Kachina",
+    "Element": "Rock",
+    "NameTextMapHash": 2531816890
+  },
+  "10000101": {
+    "SideIconName": "UI_AvatarIcon_Side_Kinich",
+    "Element": "Grass",
+    "NameTextMapHash": 4172712634
+  },
+  "10000102": {
+    "SideIconName": "UI_AvatarIcon_Side_Mualani",
+    "Element": "Water",
+    "NameTextMapHash": 3949670506
+  },
+  "10000103": {
+    "SideIconName": "UI_AvatarIcon_Side_Xilonen",
+    "Element": "Rock",
+    "NameTextMapHash": 2515292882
+  },
+  "10000104": {
+    "SideIconName": "UI_AvatarIcon_Side_Chasca",
+    "Element": "Wind",
+    "NameTextMapHash": 3746229466
+  },
+  "10000105": {
+    "SideIconName": "UI_AvatarIcon_Side_Olorun",
+    "Element": "Electric",
+    "NameTextMapHash": 1198350762
+  },
+  "10000106": {
+    "SideIconName": "UI_AvatarIcon_Side_Mavuika",
+    "Element": "Fire",
+    "NameTextMapHash": 113398050
+  },
+  "10000107": {
+    "SideIconName": "UI_AvatarIcon_Side_Citlali",
+    "Element": "Ice",
+    "NameTextMapHash": 1197975042
+  },
+  "10000108": {
+    "SideIconName": "UI_AvatarIcon_Side_Lanyan",
+    "Element": "Wind",
+    "NameTextMapHash": 1888132250
+  },
+  "10000109": {
+    "SideIconName": "UI_AvatarIcon_Side_Mizuki",
+    "Element": "Wind",
+    "NameTextMapHash": 3784387538
+  },
+  "10000110": {
+    "SideIconName": "UI_AvatarIcon_Side_Iansan",
+    "Element": "Electric",
+    "NameTextMapHash": 3120492514
+  },
+  "10000111": {
+    "SideIconName": "UI_AvatarIcon_Side_Varesa",
+    "Element": "Electric",
+    "NameTextMapHash": 283438874
+  },
+  "10000112": {
+    "SideIconName": "UI_AvatarIcon_Side_Escoffier",
+    "Element": "Ice",
+    "NameTextMapHash": 4035850498
+  },
+  "10000113": {
+    "SideIconName": "UI_AvatarIcon_Side_Ifa",
+    "Element": "Wind",
+    "NameTextMapHash": 3398665018
+  },
+  "10000114": {
+    "SideIconName": "UI_AvatarIcon_Side_SkirkNew",
+    "Element": "Ice",
+    "NameTextMapHash": 123650890
+  },
+  "10000115": {
+    "SideIconName": "UI_AvatarIcon_Side_Dahlia",
+    "Element": "Water",
+    "NameTextMapHash": 2332664426
+  },
+  "10000116": {
+    "SideIconName": "UI_AvatarIcon_Side_Ineffa",
+    "Element": "Electric",
+    "NameTextMapHash": 2759230658
+  },
+  "10000117": {},
+  "10000118": {},
+  "10000119": {
+    "SideIconName": "UI_AvatarIcon_Side_Lauma",
+    "Element": "Grass",
+    "NameTextMapHash": 1776874018
+  },
+  "10000120": {
+    "SideIconName": "UI_AvatarIcon_Side_Flins",
+    "Element": "Electric",
+    "NameTextMapHash": 1804674810
+  },
+  "10000121": {
+    "SideIconName": "UI_AvatarIcon_Side_Aino",
+    "Element": "Water",
+    "NameTextMapHash": 3887688410
+  },
+  "10000122": {
+    "SideIconName": "UI_AvatarIcon_Side_Nefer",
+    "Element": "Grass",
+    "NameTextMapHash": 2745786202
+  },
+  "10000123": {
+    "SideIconName": "UI_AvatarIcon_Side_Durin",
+    "Element": "Fire",
+    "NameTextMapHash": 2801077538
+  },
+  "10000124": {
+    "SideIconName": "UI_AvatarIcon_Side_Jahoda",
+    "Element": "Wind",
+    "NameTextMapHash": 1438964522
+  },
+  "10000901": {
+    "SideIconName": "UI_AvatarIcon_Side_Mavuika",
+    "Element": "Fire",
+    "NameTextMapHash": 3293134650
+  },
+  "10000902": {
+    "SideIconName": "UI_AvatarIcon_Side_Hutao",
+    "Element": "Fire",
+    "NameTextMapHash": 853394138
+  },
+  "10000903": {
+    "SideIconName": "UI_AvatarIcon_Side_Ineffa",
+    "Element": "Electric",
+    "NameTextMapHash": 1422574882
+  },
+  "10000904": {
+    "SideIconName": "UI_AvatarIcon_Side_Columbina",
+    "Element": "Fire",
+    "NameTextMapHash": 2211498234
+  },
+  "10000998": {},
+  "10000999": {},
+  "11000046": {
+    "SideIconName": "UI_AvatarIcon_Side_Qin",
+    "Element": "Ice",
+    "NameTextMapHash": 3986000746
+  },
+  "11000998": {},
+  "11000999": {}
+}

@@ -1,0 +1,31 @@
+{
+  "repository": "EnkaNetwork/API-docs",
+  "revision": "a9b583eb4a708dd3db56f6bdef35c3e84e4d213c",
+  "truncated": false,
+  "files": [
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "af8b67c85f22a063ac1b1bc904403a0d8cde5eda",
+      "size": 744,
+      "url": "https://api.github.com/repos/EnkaNetwork/API-docs/git/blobs/af8b67c85f22a063ac1b1bc904403a0d8cde5eda"
+    },
+    {
+      "path": "store/characters.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f6f84f9d274d3b5fe2c374b51a92da79d6d6407e",
+      "size": 68177,
+      "url": "https://api.github.com/repos/EnkaNetwork/API-docs/git/blobs/f6f84f9d274d3b5fe2c374b51a92da79d6d6407e"
+    },
+    {
+      "path": "store/hsr/honker_characters.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e24b861605d46841afdb1a5ada127d31a19ca24e",
+      "size": 47685,
+      "url": "https://api.github.com/repos/EnkaNetwork/API-docs/git/blobs/e24b861605d46841afdb1a5ada127d31a19ca24e"
+    }
+  ]
+}
